@@ -7,7 +7,7 @@
             "name": "Cobblemon: Hazte con todos",
             "description": "Captura, entrena y combate con Pokémon en el mundo de Minecraft.",
             "icon": "assets/images/modpacks/cobblemon-hazte-con-todos.svg",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "address": "localhost:25565",
             "minecraftVersion": "1.21.1",
             "mainServer": true,
@@ -106,340 +106,13 @@
                     ]
                 },
                 {
-                    "id": "com.modrinth.fabric-api:fabric-api:0.116.14+1.21.1",
-                    "name": "Fabric API",
+                    "id": "com.modrinth.music-notification:music-notification:3.0.0",
+                    "name": "Music Notification",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 2451978,
-                        "MD5": "777f1430b4d18ed9d7f4ad18ed0c0012",
-                        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aUrTRV7H/fabric-api-0.116.14%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.tmcraft:tmcraft:1.4.18+1.7.3",
-                    "name": "TMCraft",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 3360417,
-                        "MD5": "3bb04243884b305b228de0ed352ae89a",
-                        "url": "https://cdn.modrinth.com/data/HU6mkUZs/versions/RYBI5bnM/tmcraft-1.4.18%2B1.7.3.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cobblefurnies:cobblefurnies:1.2",
-                    "name": "CobbleFurnies",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 2337235,
-                        "MD5": "a2a86b8aac2ebd5208dc92a561c5e113",
-                        "url": "https://cdn.modrinth.com/data/AXY1OO9m/versions/54k31lEX/CobbleFurnies-fabric-1.2.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.factory-api:factory-api:1.21.1-2.2.9-fabric",
-                    "name": "Factory API",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 585089,
-                        "MD5": "137657c291acebb3299e5a3aee048ed4",
-                        "url": "https://cdn.modrinth.com/data/nkTZHOLD/versions/xzTMasRE/FactoryAPI-1.21.1-2.2.9-fabric.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/JigglyRadio.zip",
-                    "name": "Puff Radio",
-                    "type": "File",
-                    "artifact": {
-                        "size": 124240613,
-                        "MD5": "72c28a2cf909554ba74ddd3ff8240afd",
-                        "url": "https://cdn.modrinth.com/data/YLcccJCk/versions/tcx4Tjc6/JigglyRadio1.4.zip",
-                        "path": "resourcepacks/JigglyRadio.zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.sophisticated-backpacks-unoffical-fabric-port:sophisticated-backpacks-unoffical-fabric-port:1.21.1-3.23.4.3.106",
-                    "name": "Sophisticated Backpacks (Unoffical Fabric port)",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 988478,
-                        "MD5": "ae7046dd3850f1ad3a9bd7e954b1cb8a",
-                        "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/nHhuPdda/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.ferrite-core:ferrite-core:7.0.3-fabric",
-                    "name": "FerriteCore",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 123450,
-                        "MD5": "b8513c8c3eef01ea1117ed8d8cba060d",
-                        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/Fresh Animations.zip",
-                    "name": "Fresh Animations",
-                    "type": "File",
-                    "artifact": {
-                        "size": 850941,
-                        "MD5": "ab0e8cc3444e98f0fd51ac0d84533d52",
-                        "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/xN57JJts/FreshAnimations_v1.10.4.zip",
-                        "path": "resourcepacks/Fresh Animations.zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.balm:balm:21.0.63+fabric-1.21.1",
-                    "name": "Balm",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 809717,
-                        "MD5": "5e38debfa0b29738bcdeef2511dda84d",
-                        "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/R6U3hZRZ/balm-fabric-1.21.1-21.0.63.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cobblemon-better-pokedex-scanner:cobblemon-better-pokedex-scanner:1.0.0",
-                    "name": "Cobblemon Better Pokedex Scanner",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 350293,
-                        "MD5": "bb097232f80b5a070dec10e16af7b088",
-                        "url": "https://cdn.modrinth.com/data/lESGhLxI/versions/fvFI487Y/better-pokedex-scanner-1.0.0.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/z DO NOT ENABLE z [Pokemans - Credits Only].zip",
-                    "name": "Pokemans Pack [Cobblemon]",
-                    "type": "File",
-                    "artifact": {
-                        "size": 3826705,
-                        "MD5": "89f13f9a3eac0e82776784e8d11c22bd",
-                        "url": "https://cdn.modrinth.com/data/GFYCh249/versions/YRMjzyUR/pokemans_v15_toxicCloud.zip",
-                        "path": "resourcepacks/z DO NOT ENABLE z [Pokemans - Credits Only].zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.particle-rain:particle-rain:v4-beta.10+1.21.1-fabric",
-                    "name": "Particle Rain",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 608651,
-                        "MD5": "d756346fdf583d11436a40aad0993d68",
-                        "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/ddaOLHgq/particlerain-4.0.0-beta.10%2B1.21.1-fabric.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/PokeDiscs.zip",
-                    "name": "Poké Discs",
-                    "type": "File",
-                    "artifact": {
-                        "size": 24912925,
-                        "MD5": "9f88be6a15a5768797a44580f888eac8",
-                        "url": "https://cdn.modrinth.com/data/xk007MaS/versions/De9pY2p7/Poke%20Discs%201.20.x.zip",
-                        "path": "resourcepacks/PokeDiscs.zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.better-beds:better-beds:1.4.0-fabric",
-                    "name": "Better Beds",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 39918,
-                        "MD5": "cfecd69bea2c2df987327ee0b537486c",
-                        "url": "https://cdn.modrinth.com/data/kKwy3HU9/versions/ZPmX9Uy3/betterbeds-fabric-1.4.0.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/z DO NOT ENABLE z [CavsCobbleMons - Credits Only].zip",
-                    "name": "CavsCobbleMons",
-                    "type": "File",
-                    "artifact": {
-                        "size": 427986,
-                        "MD5": "45bad49c9159f920b77ba60e5e6b1777",
-                        "url": "https://cdn.modrinth.com/data/2k9EDPO1/versions/j9azip42/CavsCobblemon1.4.zip",
-                        "path": "resourcepacks/z DO NOT ENABLE z [CavsCobbleMons - Credits Only].zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.xaeros-minimap:xaeros-minimap:fabric-1.21.1-26.4.2",
-                    "name": "Xaero's Minimap",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 2233608,
-                        "MD5": "c5dc72b99f6bca09e42e5786da1c9b97",
-                        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Tx54V6kI/xaerominimap-fabric-1.21.1-26.4.2.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.konkrete:konkrete:1.9.9-1.21-fabric",
-                    "name": "Konkrete",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 786695,
-                        "MD5": "287ee9cfc6015f706672fd8c20f5ef9c",
-                        "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Qvrc7DuG/konkrete_fabric_1.9.9_MC_1.21.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.notenoughcrashes:notenoughcrashes:4.4.9+1.21.1-fabric",
-                    "name": "Not Enough Crashes",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 601087,
-                        "MD5": "635fe76b795c2d91f9a6c4bc436e5266",
-                        "url": "https://cdn.modrinth.com/data/yM94ont6/versions/gR0LY1dB/notenoughcrashes-fabric-4.4.9%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/z DO NOT ENABLE z [Hydro Reanimodel - Credits Only].zip",
-                    "name": "Hydro Reanimodel Pack [Cobblemon]",
-                    "type": "File",
-                    "artifact": {
-                        "size": 2759214,
-                        "MD5": "826380595a13178bc498e5782eab8608",
-                        "url": "https://cdn.modrinth.com/data/lYp6oiT3/versions/W0Y4cvXy/Hydro%20Reanimodel%20Pack%200.1.8a.zip",
-                        "path": "resourcepacks/z DO NOT ENABLE z [Hydro Reanimodel - Credits Only].zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.navas-zamega:navas-zamega:1.7.3",
-                    "name": "Navas ZA Megas",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 2387420,
-                        "MD5": "42019a1020a2c9ffccf529a42c968a16",
-                        "url": "https://cdn.modrinth.com/data/2V1Y86sc/versions/x5u68zHH/zamega-fabric-1.7.3.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/Original Pokemon Battle Music.zip",
-                    "name": "Original Pokemon Battle Music",
-                    "type": "File",
-                    "artifact": {
-                        "size": 93138424,
-                        "MD5": "747c67222ce497f8672e77ffaeda783b",
-                        "url": "https://cdn.modrinth.com/data/60QZU8Md/versions/dLmsslxS/%5BV1.2%5D%20Original%20Pokemon%20Battle%20Music.zip",
-                        "path": "resourcepacks/Original Pokemon Battle Music.zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.fancymenu:fancymenu:3.9.8-1.21.1-fabric",
-                    "name": "FancyMenu",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 25757227,
-                        "MD5": "9fe1493c23396f9674213cbf619b55bf",
-                        "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/d8MLo3sY/fancymenu_fabric_3.9.8_MC_1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.netherportalfix:netherportalfix:21.1.3+fabric-1.21.1",
-                    "name": "NetherPortalFix",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 213294,
-                        "MD5": "b9a0a822741aafe118ce9f883f8e86c4",
-                        "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/9KrnphgC/netherportalfix-fabric-1.21.1-21.1.3.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.lumyrei:lumyrei:1.1.3",
-                    "name": "LumyREI",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 66283,
-                        "MD5": "f35e2c7a5303afc7299e551f4b7aeb2d",
-                        "url": "https://cdn.modrinth.com/data/FVADf9wU/versions/PnYguaC2/LumyREI-1.1.3.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.controlling:controlling:19.0.5",
-                    "name": "Controlling",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 83679,
-                        "MD5": "5660c1ed5fee202ca5ca9a617a4202b4",
-                        "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/hGJDoW2W/Controlling-fabric-1.21.1-19.0.5.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.soundsbegone:soundsbegone:1.5.2+fabric-1.21",
-                    "name": "Sounds Be Gone!",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 6151935,
-                        "MD5": "393098afb33296c2d9f2f56e53c9c4ec",
-                        "url": "https://cdn.modrinth.com/data/FOIvwGKz/versions/N0GVB9DV/soundsbegone-fabric-1.5.2%2Bmc1.21.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cobblemon-fight-or-flight-reborn:cobblemon-fight-or-flight-reborn:0.10.9",
-                    "name": "Cobblemon Fight or Flight Reborn",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1424525,
-                        "MD5": "8dc714c8c95f504a3c2176834288a979",
-                        "url": "https://cdn.modrinth.com/data/cTdIg5HZ/versions/aLKGVSng/fightorflight-fabric-0.10.9.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.handcrafted:handcrafted:4.0.3",
-                    "name": "Handcrafted",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 7127377,
-                        "MD5": "4ae4f2fe6a71eaeeade3ce0eb1db7997",
-                        "url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/f0pKpUWd/handcrafted-fabric-1.21.1-4.0.3.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.lumymon:lumymon:0.6.6",
-                    "name": "LumyMon",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 2331858,
-                        "MD5": "a1f52c03995e41f08b9e4db17fedf1e8",
-                        "url": "https://cdn.modrinth.com/data/QAX8WiBc/versions/SSS3twZY/LumyMon-0.6.6.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.legendary-monuments:legendary-monuments:LM-Cobbleverse",
-                    "name": "Cobblemon: Legendary Monuments (CB 1.8 Version Out)",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 5736792,
-                        "MD5": "7c9ecce22a99dbaebef513a78384309a",
-                        "url": "https://cdn.modrinth.com/data/m6RyHSbV/versions/RtYJBrxd/LegendaryMonuments-Cobbleverse.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cobblemon-mega-showdown:cobblemon-mega-showdown:1.8.4+1.7.3+1.21.1",
-                    "name": "Cobblemon: Mega Showdown",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 17213370,
-                        "MD5": "0e3197dd14c98ce0240d498114cfe143",
-                        "url": "https://cdn.modrinth.com/data/SszvX85I/versions/Y6di9Ram/mega_showdown-fabric-1.8.4%2B1.7.3%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.debugify:debugify:1.21.1+1.0",
-                    "name": "Debugify",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 292202,
-                        "MD5": "604cf2f99be0b208a3354783f5b56fa2",
-                        "url": "https://cdn.modrinth.com/data/QwxR6Gcd/versions/dO7QNiof/Debugify-1.21.1%2B1.0.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.globalpacks:globalpacks:21.0.6",
-                    "name": "Global Packs",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 394707,
-                        "MD5": "30850a43a7a21b109ed7ab19decf247d",
-                        "url": "https://cdn.modrinth.com/data/NRLPy2mk/versions/ErTctr3A/globalpacks-fabric-1.21.1-21.0.6.jar"
+                        "size": 139713,
+                        "MD5": "b532a1d0bf3a3dfc405a072104c6b46c",
+                        "url": "https://cdn.modrinth.com/data/A4YQgwzz/versions/IgzyHmxS/musicnotification-fabric-3.0.0%2Bmc1.21.1.jar"
                     }
                 },
                 {
@@ -453,533 +126,13 @@
                     }
                 },
                 {
-                    "id": "resourcepacks/Comforts Modernized.zip",
-                    "name": "Comforts Modernized",
-                    "type": "File",
-                    "artifact": {
-                        "size": 72956,
-                        "MD5": "a47986ab87271f68e7f6e2b57fbb2d77",
-                        "url": "https://cdn.modrinth.com/data/BJoffwm5/versions/uFrHNRj0/Comforts%20Modernized%20-%20V1.1.zip",
-                        "path": "resourcepacks/Comforts Modernized.zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.modernfix:modernfix:5.25.1+mc1.21.1",
-                    "name": "ModernFix",
+                    "id": "com.modrinth.reeses-sodium-options:reeses-sodium-options:mc1.21.1-2.2.3+fabric",
+                    "name": "Reese's Sodium Options",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 471258,
-                        "MD5": "17260c894041b7b4a1b1f2fd1a8f1a8b",
-                        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.advancement-plaques:advancement-plaques:1.6.8",
-                    "name": "Advancement Plaques",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 195505,
-                        "MD5": "99b36bb8a2f7fd84ea83c00b65be9b90",
-                        "url": "https://cdn.modrinth.com/data/9NM0dXub/versions/g0SNjiMq/AdvancementPlaques-1.21.1-fabric-1.6.8.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/Fresh Icons.zip",
-                    "name": "Icon Fresh",
-                    "type": "File",
-                    "artifact": {
-                        "size": 852471,
-                        "MD5": "8ecfd25956194f46194c2129f45dbcb2",
-                        "url": "https://cdn.modrinth.com/data/u4iPx1Dr/versions/dVHdQVak/Icon%20Fresh%200.4.zip",
-                        "path": "resourcepacks/Fresh Icons.zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.default-options:default-options:21.1.7+fabric-1.21.1",
-                    "name": "Default Options",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 105044,
-                        "MD5": "e9741ff659f52cc54ab46468b8a73aea",
-                        "url": "https://cdn.modrinth.com/data/WEg59z5b/versions/xaqHFEAN/defaultoptions-fabric-1.21.1-21.1.7.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.melody:melody:1.0.10-1.21-fabric",
-                    "name": "Melody",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 188035,
-                        "MD5": "0f1bfbf2dd4fa047a1616fc448f3b856",
-                        "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.lootr:lootr:1.21.1-1.11.38.127",
-                    "name": "Lootr",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1111591,
-                        "MD5": "be2724760a4dcfc906fc7ad7f38368f8",
-                        "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/nar56EsW/lootr-fabric-1.21.1-1.11.38.127.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/z DO NOT ENABLE z [LackingMons - Credits Only].zip",
-                    "name": "LackingMons (Discountiniued)",
-                    "type": "File",
-                    "artifact": {
-                        "size": 5998516,
-                        "MD5": "caffceb86fe6c03796484c6a9161427b",
-                        "url": "https://cdn.modrinth.com/data/ouf6KDf2/versions/pLXYHK8J/LackingMons-ReleaseCanditate-1.zip",
-                        "path": "resourcepacks/z DO NOT ENABLE z [LackingMons - Credits Only].zip"
-                    }
-                },
-                {
-                    "id": "resourcepacks/Emissive Cobblemon Ores.zip",
-                    "name": "Cobblemon Emissive Ores",
-                    "type": "File",
-                    "artifact": {
-                        "size": 803304,
-                        "MD5": "ffb21c98329ed18f29d0b37fad4eb538",
-                        "url": "https://cdn.modrinth.com/data/SpgcWKWY/versions/r0ix2gfK/Emissive-Cobblemon-Ores-1.7.zip",
-                        "path": "resourcepacks/Emissive Cobblemon Ores.zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.xaeros-world-map:xaeros-world-map:fabric-1.21.1-1.44.2",
-                    "name": "Xaero's World Map",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1448218,
-                        "MD5": "779cde2dce63cf90d6b318933c2d1080",
-                        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/L2nO7ZYD/xaeroworldmap-fabric-1.21.1-1.44.2.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.repurposed-structures-fabric:repurposed-structures-fabric:7.5.21+1.21.1-fabric",
-                    "name": "Repurposed Structures - Fabric",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 8202318,
-                        "MD5": "deb4b37a167bf3eedd2345573c832936",
-                        "url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4uDzF4B9/repurposed_structures-7.5.21%2B1.21.1-fabric.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/z DO NOT ENABLE z [TDmon - Credits Only].zip",
-                    "name": "TDmon",
-                    "type": "File",
-                    "artifact": {
-                        "size": 458809,
-                        "MD5": "93c04cb984a23e7d846df3873d4a6407",
-                        "url": "https://cdn.modrinth.com/data/b8PVSzJC/versions/hcVF2EwL/TDmon%5BV1.3.1a-Gastly%20Line%20Ported%5D.zip",
-                        "path": "resourcepacks/z DO NOT ENABLE z [TDmon - Credits Only].zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cobblemon-additions:cobblemon-additions:4.1.6",
-                    "name": "Cobblemon additions",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1961229,
-                        "MD5": "73fd17cc59f38c1e03a1b2a37d7252af",
-                        "url": "https://cdn.modrinth.com/data/W2pr9jyL/versions/degN5DK4/cobblemon-additions-4.1.6.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/z DO NOT ENABLE z [PlanetaCobblemon - Credits Only].zip",
-                    "name": "Planeta Cobblemon Pokémon Pack",
-                    "type": "File",
-                    "artifact": {
-                        "size": 317141,
-                        "MD5": "e76de071ead37cc46efad8d5e355af5b",
-                        "url": "https://cdn.modrinth.com/data/B12Teeqk/versions/mdyB28R2/PlanetaCobblemonFreePack.zip",
-                        "path": "resourcepacks/z DO NOT ENABLE z [PlanetaCobblemon - Credits Only].zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cobblemon-minigames:cobblemon-minigames:4.1.1+cobblemon1.7.3",
-                    "name": "Cobblemon MiniGames",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 7817499,
-                        "MD5": "d30cf49f406f757af9d11885e28b35db",
-                        "url": "https://cdn.modrinth.com/data/KVNtCTpr/versions/iPRoZogo/cobblemonminigames-fabric-4.1.1%2Bcobblemon1.7.3.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.better-furnaces-reforged:better-furnaces-reforged:1.21.1-1.1.2518.1+fabric",
-                    "name": "Better Furnaces Reforged",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 633188,
-                        "MD5": "14df54c6ab031983bccfca94006ceae6",
-                        "url": "https://cdn.modrinth.com/data/ZXOYCX2A/versions/bJ5ueqVe/BetterFurnacesReforged-1.21.1-1.1.2518.1-fabric.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.c2me-fabric:c2me-fabric:0.4.0-alpha.0.23+1.21.1",
-                    "name": "Concurrent Chunk Management Engine (Fabric)",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 3757044,
-                        "MD5": "99215e0f9ca4d99d4d9eb56b5f33d036",
-                        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/h8ey5B7D/c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cobbledgacha:cobbledgacha:3.0.3",
-                    "name": "CobbledGacha v.3 [Cobblemon 1.7] [Fabric/NeoForge 1.21.1]",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1148291,
-                        "MD5": "d10f50d2f4bae439b5332707a47292ec",
-                        "url": "https://cdn.modrinth.com/data/c1OpnQs3/versions/kqpoF9m4/cobbledgacha-fabric-1.21.1-3.0.3.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.forgiving-void:forgiving-void:21.1.7+fabric-1.21.1",
-                    "name": "Forgiving Void",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 78531,
-                        "MD5": "9dc0b31677ab477d8832d9ab5aface60",
-                        "url": "https://cdn.modrinth.com/data/1vkzEZjE/versions/HGbKoEgt/forgivingvoid-fabric-1.21.1-21.1.7.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.particular-reforged:particular-reforged:1.5.5",
-                    "name": "Particular ✨ Reforged",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 285813,
-                        "MD5": "d044b84c34a12bb2f7db88c81ee3902a",
-                        "url": "https://cdn.modrinth.com/data/pYFUU6cq/versions/PASRyKTR/particular-1.21.1-Fabric-1.5.5.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.rechiseled:rechiseled:1.2.4-fabric-mc1.21",
-                    "name": "Rechiseled",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 11913849,
-                        "MD5": "ed15b2605a5e08998aad62a371b64a2a",
-                        "url": "https://cdn.modrinth.com/data/B0g2vT6l/versions/Whwd5n82/rechiseled-1.2.4-fabric-mc1.21.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/Cobblemon Interface.zip",
-                    "name": "Cobblemon Interface",
-                    "type": "File",
-                    "artifact": {
-                        "size": 14108266,
-                        "MD5": "03cacbf0b647173ae6707cc74c10866c",
-                        "url": "https://cdn.modrinth.com/data/gfiYlQU0/versions/8SjyMuZO/Cobblemon%20Interface%20v1.6.0.zip",
-                        "path": "resourcepacks/Cobblemon Interface.zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.sound-physics-remastered:sound-physics-remastered:fabric-1.21.1-1.5.1",
-                    "name": "Sound Physics Remastered",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 205671,
-                        "MD5": "ca55ac70824e229cd1175238b50608a6",
-                        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/tVu2EZ4u/sound-physics-remastered-fabric-1.21.1-1.5.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.supermartijn642s-config-lib:supermartijn642s-config-lib:1.1.8-fabric-mc1.21",
-                    "name": "SuperMartijn642's Config Lib",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 206993,
-                        "MD5": "fff83455887d85c6f7ebac7bba24fa8f",
-                        "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/euSlaAtA/supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.moreculling:moreculling:1.0.8",
-                    "name": "More Culling",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 332100,
-                        "MD5": "6aedbcb1811e58e1b357e9a9d98c1eae",
-                        "url": "https://cdn.modrinth.com/data/51shyZVL/versions/LekDmqLf/moreculling-fabric-1.21.1-1.0.8.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.rctmod:rctmod:0.18.1-beta",
-                    "name": "Radical Cobblemon Trainers",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 6757956,
-                        "MD5": "25c546e42d63947ac2ecdcd12823cc42",
-                        "url": "https://cdn.modrinth.com/data/lRwTUnD7/versions/gQx1F1dx/rctmod-fabric-1.21.1-0.18.1-beta.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.entity-model-features:entity-model-features:3.2.4-fabric-1.21",
-                    "name": "[EMF] Entity Model Features",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 565280,
-                        "MD5": "91f3be98f2f2cd76d3ad68525f76ff79",
-                        "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/NLDNY8vg/entity_model_features-3.2.4-1.21-fabric.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.immediatelyfast:immediatelyfast:1.6.11+1.21.1-fabric",
-                    "name": "ImmediatelyFast",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 336763,
-                        "MD5": "ff2f33b4f400d9ccf3bc6e160246b101",
-                        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/ATB4eNEP/ImmediatelyFast-Fabric-1.6.11%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.brb:brb:1.10.0-rc5+1.21",
-                    "name": "Better Recipe Book",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1213168,
-                        "MD5": "d718eff1a6a0f2f9b863f67082ec092e",
-                        "url": "https://cdn.modrinth.com/data/vWIaVOTE/versions/rj0f0Vtq/brb-1.10.0-rc5%2B1.21.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.huge-structure-blocks:huge-structure-blocks:1.21.1-1.1.6",
-                    "name": "Huge Structure Blocks",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 100230,
-                        "MD5": "3d2c52db7fb380822586b6d42ecde976",
-                        "url": "https://cdn.modrinth.com/data/AMLtKGdJ/versions/jZrAT0D5/huge-structure-blocks-fabric-1.1.6.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cobbreeding:cobbreeding:2.2.2",
-                    "name": "Cobbreeding",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 475560,
-                        "MD5": "c8b8d36e66af37edf4711632bb82da36",
-                        "url": "https://cdn.modrinth.com/data/ItmVb4zY/versions/RNbPHodv/Cobbreeding-fabric-2.2.2.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.bloos-gacha-machine:bloos-gacha-machine:2.0.2",
-                    "name": "Bloo's Gacha Machine v.2",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 356291,
-                        "MD5": "f70fd46c4bb4ab91ae5382688e3ed5c5",
-                        "url": "https://cdn.modrinth.com/data/67dS28p4/versions/zJyIPRC7/gachamachine-fabric-1.21.1-2.0.2.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.yacl:yacl:3.8.2+1.21.1-fabric",
-                    "name": "YetAnotherConfigLib (YACL)",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1131265,
-                        "MD5": "aadf11f5a793296be7c195e1ca388492",
-                        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/z DO NOT ENABLE z [MissingMons - Credits Only].zip",
-                    "name": "MissingMons [cobblemon]",
-                    "type": "File",
-                    "artifact": {
-                        "size": 1271067,
-                        "MD5": "243289039b74db3e9ccecd3a1c5a9e61",
-                        "url": "https://cdn.modrinth.com/data/jbbBrQVa/versions/m53LoEZd/MissingMon_v3.6.1%20%5BFloral%20Awakening%20%5D.zip",
-                        "path": "resourcepacks/z DO NOT ENABLE z [MissingMons - Credits Only].zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.accessories:accessories:1.1.0-beta.53+1.21.1",
-                    "name": "Accessories",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1095802,
-                        "MD5": "1f332447eadf66a07b33e641816fcd5e",
-                        "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Xlt4eWBe/accessories-fabric-1.1.0-beta.53%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.better-third-person:better-third-person:1.9.0",
-                    "name": "Better Third Person",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 52188,
-                        "MD5": "32de4a8aff2d1706a69f44fd22acd78c",
-                        "url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/QZTn8cTa/BetterThirdPerson-Fabric-1.21-1.9.0.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.fzzy-config:fzzy-config:0.7.6+1.21",
-                    "name": "Fzzy Config",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 2365335,
-                        "MD5": "dcedb9014b228c01941b2ef4f2743f19",
-                        "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/kOmySYD4/fzzy_config-0.7.6%2B1.21.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.zfastnoise:zfastnoise:1.0.13+1.21",
-                    "name": "Fast Noise",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 38857,
-                        "MD5": "cc5d3de4adb10db5af20db16ea9b6fe1",
-                        "url": "https://cdn.modrinth.com/data/OnlVIpq5/versions/tss0FueO/zfastnoise-1.0.13%2B1.21.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.iceberg:iceberg:1.3.2",
-                    "name": "Iceberg",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 413302,
-                        "MD5": "fe26852d922aa24dad9c81270a09f929",
-                        "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/7ITFAyW8/Iceberg-1.21.1-fabric-1.3.2.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.interactic:interactic:0.2.3+1.21",
-                    "name": "Interactic",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 118011,
-                        "MD5": "08efa54362ed6b49f37e4fea9788dd36",
-                        "url": "https://cdn.modrinth.com/data/ErpAAAaf/versions/PGo6qQqQ/interactic-0.2.3%2B1.21.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.highlight:highlight:3.0.0",
-                    "name": "Highlight",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 457352,
-                        "MD5": "234ee14bc223ae7594b41e16c7357518",
-                        "url": "https://cdn.modrinth.com/data/Vz96hXMh/versions/O0nda3pt/highlight-fabric-1.21-3.0.0.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.configurable:configurable:3.5.2",
-                    "name": "Configurable",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 545247,
-                        "MD5": "c82791281f26785531f82c0913967b58",
-                        "url": "https://cdn.modrinth.com/data/lGffrQ3O/versions/4IO3KqeL/configurable-3.5.2%2B1.21.1-fabric.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.music-notification:music-notification:3.0.0",
-                    "name": "Music Notification",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 139713,
-                        "MD5": "b532a1d0bf3a3dfc405a072104c6b46c",
-                        "url": "https://cdn.modrinth.com/data/A4YQgwzz/versions/IgzyHmxS/musicnotification-fabric-3.0.0%2Bmc1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.libjf:libjf:3.17.5",
-                    "name": "LibJF",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1282450,
-                        "MD5": "82ddd796de56076c4b023284acd6fada",
-                        "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/WRFFw4eh/libjf-3.17.5.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cobblemon-playerxp:cobblemon-playerxp:1.0.9+1.21.1",
-                    "name": "Cobblemon: PlayerXP",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 10818,
-                        "MD5": "678d412cb49d046d3597ae1c26cb8baa",
-                        "url": "https://cdn.modrinth.com/data/zlrbPCvu/versions/f6114Tas/playerxp-fabric-1.0.9%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.owo-lib:owo-lib:0.12.15.4+1.21",
-                    "name": "oωo (owo-lib)",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1183559,
-                        "MD5": "3627aee17111e12a8c66928f5d7a3fba",
-                        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/z DO NOT ENABLE z [MysticMons - Credits Only].zip",
-                    "name": "MysticMons",
-                    "type": "File",
-                    "artifact": {
-                        "size": 1268389,
-                        "MD5": "931746aa20e8ae1f6a358f27e28a23bf",
-                        "url": "https://cdn.modrinth.com/data/TiFXQSAQ/versions/n1gBFmIp/MysticMons_v3.2.1.zip",
-                        "path": "resourcepacks/z DO NOT ENABLE z [MysticMons - Credits Only].zip"
-                    }
-                },
-                {
-                    "id": "resourcepacks/z DO NOT ENABLE z [ATM x MSD - Credits Only].zip",
-                    "name": "AllTheMons x Mega Showdown",
-                    "type": "File",
-                    "artifact": {
-                        "size": 6126613,
-                        "MD5": "2ee8a45a429512d3e4b987af9e45e86b",
-                        "url": "https://cdn.modrinth.com/data/odZZdRCE/versions/VhwUZj8K/ATM%20x%20MSD%20%5Bv3.6.1%5D.zip",
-                        "path": "resourcepacks/z DO NOT ENABLE z [ATM x MSD - Credits Only].zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.reinforced-chests:reinforced-chests:3.1.1+1.21.1",
-                    "name": "Reinforced Chests",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1164847,
-                        "MD5": "79b5fea9540f8c96847a7b2cfea4c8ba",
-                        "url": "https://cdn.modrinth.com/data/FWtAXlpg/versions/AwY9P3qV/reinforced-chests-3.1.1%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.lootrmon:lootrmon:0.0.0.3",
-                    "name": "Lootrmon: Lootr & Cobblemon Gilded Chest Compatibility",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 107470,
-                        "MD5": "fd268da56be73ab93ecf5fa8696890da",
-                        "url": "https://cdn.modrinth.com/data/ywwXJDli/versions/nquNxBhW/lootrmon-fabric-1.21.1-0.0.0.3.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cloth-config:cloth-config:15.0.140+fabric",
-                    "name": "Cloth Config API",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1157166,
-                        "MD5": "a2c091b027ad6ba8e54b07020fd45884",
-                        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.searchables:searchables:1.0.2",
-                    "name": "Searchables",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 79531,
-                        "MD5": "33d8f858261d757ef89144ac13013987",
-                        "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/tRdr8Bg3/Searchables-fabric-1.21.1-1.0.2.jar"
+                        "size": 259211,
+                        "MD5": "bb87d3438852737e636bf6b3f1f027d5",
+                        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/jDOK2MQs/reeses-sodium-options-fabric-2.2.3%2Bmc1.21.1.jar"
                     }
                 },
                 {
@@ -993,108 +146,13 @@
                     }
                 },
                 {
-                    "id": "resourcepacks/z DO NOT ENABLE z [GlitchDex - Credits Only].zip",
-                    "name": "GlitchDex - Cobblemon",
-                    "type": "File",
-                    "artifact": {
-                        "size": 322813,
-                        "MD5": "a59db47acf7a9c2354b96c205309b0fc",
-                        "url": "https://cdn.modrinth.com/data/Gdq5F7ud/versions/eHQG8T0Y/GlitchDex-1.1.zip",
-                        "path": "resourcepacks/z DO NOT ENABLE z [GlitchDex - Credits Only].zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.biome-replacer:biome-replacer:2.1-hippo-fabric",
-                    "name": "Biome Replacer",
+                    "id": "com.modrinth.sophisticated-backpacks-unoffical-fabric-port:sophisticated-backpacks-unoffical-fabric-port:1.21.1-3.23.4.3.106",
+                    "name": "Sophisticated Backpacks (Unoffical Fabric port)",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 138694,
-                        "MD5": "d31a5b16f5ef5354b5b28dc736c6979d",
-                        "url": "https://cdn.modrinth.com/data/DAXbR0Wj/versions/IeQCQzcl/biomereplacer-2.1-hippo-fabric.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.villagerconfig:villagerconfig:fabric-4.5.4+1.21.1",
-                    "name": "VillagerConfig",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 355303,
-                        "MD5": "8e0bad0a69dbdd8abb8755c7bfc0e989",
-                        "url": "https://cdn.modrinth.com/data/OClpEDe3/versions/sb4XIWwK/villagerconfig-fabric-4.5.4%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/Classic Grass.zip",
-                    "name": "Cobblemon Classic Grass Pack",
-                    "type": "File",
-                    "artifact": {
-                        "size": 7418,
-                        "MD5": "e30036a0e8d49439568cfea37d9d9521",
-                        "url": "https://cdn.modrinth.com/data/vtFYGarZ/versions/k7BV0a5T/Cobblemon%20Classic%20Grass%20Pack%20v2.1%20MC1.21.1.zip",
-                        "path": "resourcepacks/Classic Grass.zip"
-                    }
-                },
-                {
-                    "id": "resourcepacks/Low Fire.zip",
-                    "name": "Low Fire",
-                    "type": "File",
-                    "artifact": {
-                        "size": 42116,
-                        "MD5": "09262e8a854d065b2bbdf1e942f339d4",
-                        "url": "https://cdn.modrinth.com/data/1jZGHJ05/versions/RP4ozzMC/Low%20Fire.zip",
-                        "path": "resourcepacks/Low Fire.zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.badoptimizations:badoptimizations:2.4.1",
-                    "name": "BadOptimizations",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 283566,
-                        "MD5": "59ee243a5ccd09fff1dd2879b3cad72a",
-                        "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.toms-storage:toms-storage:1.21-2.3.0-fabric",
-                    "name": "Tom's Simple Storage Mod",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1962781,
-                        "MD5": "46341f7e08a115bcc3b5b114dff671fb",
-                        "url": "https://cdn.modrinth.com/data/XZNI4Cpy/versions/GwLz79tK/toms_storage_fabric-1.21-2.3.0.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/z DO NOT ENABLE z [CobbleMotion - Credits Only].zip",
-                    "name": "CobbleMotion v1.5.1",
-                    "type": "File",
-                    "artifact": {
-                        "size": 3148542,
-                        "MD5": "07ce9e8ea7eea6285ab0d7a939462cdf",
-                        "url": "https://cdn.modrinth.com/data/lIDAJAby/versions/sPztKDIi/Cobblemotion_v1.5.1.zip",
-                        "path": "resourcepacks/z DO NOT ENABLE z [CobbleMotion - Credits Only].zip"
-                    }
-                },
-                {
-                    "id": "resourcepacks/z DO NOT ENABLE z [MundialMons - Credits Only].zip",
-                    "name": "MundialMons ReaniPack [CobbleMon]",
-                    "type": "File",
-                    "artifact": {
-                        "size": 1535880,
-                        "MD5": "b54e45f181af4ccc4c38ac9a8ec9524f",
-                        "url": "https://cdn.modrinth.com/data/ubCG349l/versions/ObF5y08k/MundialMons.1.3.2V.%5BBUGS%20AND%20FIX%5D.zip",
-                        "path": "resourcepacks/z DO NOT ENABLE z [MundialMons - Credits Only].zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.neruina:neruina:3.3.3",
-                    "name": "Neruina - Ticking Entity Fixer",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 860092,
-                        "MD5": "db817a6db200bafb884e87899d4dfb74",
-                        "url": "https://cdn.modrinth.com/data/1s5x833P/versions/S3RKG9zF/neruina-3.3.3%2B1.21.1-fabric.jar"
+                        "size": 988478,
+                        "MD5": "ae7046dd3850f1ad3a9bd7e954b1cb8a",
+                        "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/nHhuPdda/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar"
                     }
                 },
                 {
@@ -1108,13 +166,13 @@
                     }
                 },
                 {
-                    "id": "com.modrinth.paginatedadvancements:paginatedadvancements:2.5.1",
-                    "name": "Paginated Advancements & Custom Frames",
+                    "id": "com.modrinth.cobblemon-fight-or-flight-reborn:cobblemon-fight-or-flight-reborn:0.10.9",
+                    "name": "Cobblemon Fight or Flight Reborn",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 71859,
-                        "MD5": "98972ac66573f39aff66cc2a396ef916",
-                        "url": "https://cdn.modrinth.com/data/pJogNFap/versions/fQnpir9a/paginatedadvancements-2.5.1.jar"
+                        "size": 1424525,
+                        "MD5": "8dc714c8c95f504a3c2176834288a979",
+                        "url": "https://cdn.modrinth.com/data/cTdIg5HZ/versions/aLKGVSng/fightorflight-fabric-0.10.9.jar"
                     }
                 },
                 {
@@ -1128,84 +186,23 @@
                     }
                 },
                 {
-                    "id": "com.modrinth.cobblemon-capture-xp:cobblemon-capture-xp:1.7.3-fabric-1.3.0",
-                    "name": "Cobblemon Capture XP",
+                    "id": "com.modrinth.cobblemon-mega-showdown:cobblemon-mega-showdown:1.8.4+1.7.3+1.21.1",
+                    "name": "Cobblemon: Mega Showdown",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 22848,
-                        "MD5": "e6fc02948bb7b46b6554bc6df987e6f2",
-                        "url": "https://cdn.modrinth.com/data/LBl4Qguc/versions/hjQp9Aq3/capturexp-fabric-1.7.3-1.3.0.jar"
+                        "size": 17213370,
+                        "MD5": "0e3197dd14c98ce0240d498114cfe143",
+                        "url": "https://cdn.modrinth.com/data/SszvX85I/versions/Y6di9Ram/mega_showdown-fabric-1.8.4%2B1.7.3%2B1.21.1.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.cobbleverse-badges:cobbleverse-badges:1.3",
-                    "name": "COBBLEVERSE: Badges & Trophies",
+                    "id": "com.modrinth.libjf:libjf:3.17.5",
+                    "name": "LibJF",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 137015,
-                        "MD5": "079f81e2f318e82c57c5dd87431d283c",
-                        "url": "https://cdn.modrinth.com/data/PHT3Zj0r/versions/3aQ0cMqp/CobbleverseBadges-1.3.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.moar-concrete:moar-concrete:1.3.1",
-                    "name": "Moar Concrete",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 777538,
-                        "MD5": "15e0f4f9c262a21499792bbf63601b15",
-                        "url": "https://cdn.modrinth.com/data/lXDzrLAm/versions/hG50ZysI/moar-concrete-1.3.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.athena-ctm:athena-ctm:4.0.6",
-                    "name": "Athena",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 88425,
-                        "MD5": "a549af3b3a32722ab81ff11d9f44f90b",
-                        "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/JfyYsWKP/athena-fabric-1.21.1-4.0.6.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.entitytexturefeatures:entitytexturefeatures:7.1-fabric-1.21",
-                    "name": "[ETF] Entity Texture Features",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 745421,
-                        "MD5": "ae33b3cdbe2d7b431e5d36c41efb34c9",
-                        "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/udcdeUXw/entity_texture_features_1.21-fabric-7.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.no-chat-restrictions:no-chat-restrictions:Fabric-MC1.21.11-v1.0.0",
-                    "name": "No Chat Restrictions",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 9907,
-                        "MD5": "e00f093d0e9e903b3ed0d1784315d88d",
-                        "url": "https://cdn.modrinth.com/data/z440MEwJ/versions/2fnDwqeV/NoChatRestrictions-Fabric-MC1.21.11-v1.0.0.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/FullyHisuianStarters RP.zip",
-                    "name": "Fully Hisuian Starters (Cobblemon)",
-                    "type": "File",
-                    "artifact": {
-                        "size": 202557,
-                        "MD5": "2928dd365959b146c37cdd5948c143d5",
-                        "url": "https://cdn.modrinth.com/data/5vRvzDPO/versions/6RwfalgE/Fully%20Hisuian%20Starters%201.1.1.zip",
-                        "path": "resourcepacks/FullyHisuianStarters RP.zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cobblemonraiddens:cobblemonraiddens:0.11.3+1.21.1",
-                    "name": "Cobblemon Raid Dens",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 2690197,
-                        "MD5": "30283db43eee22f57df10d52a39323e6",
-                        "url": "https://cdn.modrinth.com/data/GebWh45l/versions/Lecb595b/cobblemonraiddens-fabric-0.11.3%2B1.21.1.jar"
+                        "size": 1282450,
+                        "MD5": "82ddd796de56076c4b023284acd6fada",
+                        "url": "https://cdn.modrinth.com/data/WKwQAwke/versions/WRFFw4eh/libjf-3.17.5.jar"
                     }
                 },
                 {
@@ -1220,23 +217,227 @@
                     }
                 },
                 {
-                    "id": "com.modrinth.zoomify:zoomify:2.15.2+1.21.1",
-                    "name": "Zoomify (Zoom)",
+                    "id": "com.modrinth.forgiving-void:forgiving-void:21.1.7+fabric-1.21.1",
+                    "name": "Forgiving Void",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 872937,
-                        "MD5": "e3beea86fba08bffe61ccad28df6c676",
-                        "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar"
+                        "size": 78531,
+                        "MD5": "9dc0b31677ab477d8832d9ab5aface60",
+                        "url": "https://cdn.modrinth.com/data/1vkzEZjE/versions/HGbKoEgt/forgivingvoid-fabric-1.21.1-21.1.7.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.continuity:continuity:3.0.0+1.21",
-                    "name": "Continuity",
+                    "id": "com.modrinth.pocketmorph:pocketmorph:2.2.0",
+                    "name": "[Cobblemon] PocketMorph",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 1014044,
-                        "MD5": "daee3841730e2576a621943f289deadb",
-                        "url": "https://cdn.modrinth.com/data/1IjD5062/versions/kSPJ4hQv/continuity-3.0.0%2B1.21.jar"
+                        "size": 1337887,
+                        "MD5": "0b5938304ba6b36f2814707208b3e3b9",
+                        "url": "https://cdn.modrinth.com/data/j3wTk6KL/versions/45LEbLo0/pocketmorph-2.2.0.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/Fresh Animations.zip",
+                    "name": "Fresh Animations",
+                    "type": "File",
+                    "artifact": {
+                        "size": 850941,
+                        "MD5": "ab0e8cc3444e98f0fd51ac0d84533d52",
+                        "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/xN57JJts/FreshAnimations_v1.10.4.zip",
+                        "path": "resourcepacks/Fresh Animations.zip"
+                    }
+                },
+                {
+                    "id": "com.modrinth.carved-wood:carved-wood:1.9.7-B-Fabric-1.21.1",
+                    "name": "Carved Wood",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2891665,
+                        "MD5": "db596ba07c887eea948994cedf2504bd",
+                        "url": "https://cdn.modrinth.com/data/WuwijfrW/versions/h1wI9HyK/Carved%20Wood-fabric-1.21.1-1.9.7-B.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.pokeblocks:pokeblocks:1.4.0-1.21.1",
+                    "name": "Pokeblocks",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1606467,
+                        "MD5": "a576344a9af471b67b47437adcdd2a63",
+                        "url": "https://cdn.modrinth.com/data/hnOfcjSq/versions/AMYJbQsk/pokeblocks-1.4.0-1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.forge-config-api-port:forge-config-api-port:v21.1.6-1.21.1-Fabric",
+                    "name": "Forge Config API Port",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 633065,
+                        "MD5": "eba1a7f9d9976e983a2b9eb5e915e087",
+                        "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/N5qzq0XV/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.better-third-person:better-third-person:1.9.0",
+                    "name": "Better Third Person",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 52188,
+                        "MD5": "32de4a8aff2d1706a69f44fd22acd78c",
+                        "url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/QZTn8cTa/BetterThirdPerson-Fabric-1.21-1.9.0.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.fabric-api:fabric-api:0.116.14+1.21.1",
+                    "name": "Fabric API",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2451978,
+                        "MD5": "777f1430b4d18ed9d7f4ad18ed0c0012",
+                        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aUrTRV7H/fabric-api-0.116.14%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.easy-npc:easy-npc:7.17.0",
+                    "name": "Easy NPC",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 25261,
+                        "MD5": "90eb6a5e23aa12dbef23470072ea74f8",
+                        "url": "https://cdn.modrinth.com/data/CgGEe1h3/versions/FnEpIoxY/easy_npc_bundle-fabric-1.21.1-7.17.0.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.ferrite-core:ferrite-core:7.0.3-fabric",
+                    "name": "FerriteCore",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 123450,
+                        "MD5": "b8513c8c3eef01ea1117ed8d8cba060d",
+                        "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/sOzRw3CG/ferritecore-7.0.3-fabric.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/z DO NOT ENABLE z [PlanetaCobblemon - Credits Only].zip",
+                    "name": "Planeta Cobblemon Pokémon Pack",
+                    "type": "File",
+                    "artifact": {
+                        "size": 317141,
+                        "MD5": "e76de071ead37cc46efad8d5e355af5b",
+                        "url": "https://cdn.modrinth.com/data/B12Teeqk/versions/mdyB28R2/PlanetaCobblemonFreePack.zip",
+                        "path": "resourcepacks/z DO NOT ENABLE z [PlanetaCobblemon - Credits Only].zip"
+                    }
+                },
+                {
+                    "id": "com.modrinth.handcrafted:handcrafted:4.0.3",
+                    "name": "Handcrafted",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 7127377,
+                        "MD5": "4ae4f2fe6a71eaeeade3ce0eb1db7997",
+                        "url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/f0pKpUWd/handcrafted-fabric-1.21.1-4.0.3.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cobbledgacha:cobbledgacha:3.0.3",
+                    "name": "CobbledGacha v.3 [Cobblemon 1.7] [Fabric/NeoForge 1.21.1]",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1148291,
+                        "MD5": "d10f50d2f4bae439b5332707a47292ec",
+                        "url": "https://cdn.modrinth.com/data/c1OpnQs3/versions/kqpoF9m4/cobbledgacha-fabric-1.21.1-3.0.3.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.packet-fixer:packet-fixer:3.3.1",
+                    "name": "Packet Fixer",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 46623,
+                        "MD5": "8f22fb065079340a72ae5ce0da12efcb",
+                        "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/2C41Q8WX/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.lootr:lootr:1.21.1-1.11.38.127",
+                    "name": "Lootr",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1111591,
+                        "MD5": "be2724760a4dcfc906fc7ad7f38368f8",
+                        "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/nar56EsW/lootr-fabric-1.21.1-1.11.38.127.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.fancymenu:fancymenu:3.9.8-1.21.1-fabric",
+                    "name": "FancyMenu",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 25757227,
+                        "MD5": "9fe1493c23396f9674213cbf619b55bf",
+                        "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/d8MLo3sY/fancymenu_fabric_3.9.8_MC_1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.entitytexturefeatures:entitytexturefeatures:7.1-fabric-1.21",
+                    "name": "[ETF] Entity Texture Features",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 745421,
+                        "MD5": "ae33b3cdbe2d7b431e5d36c41efb34c9",
+                        "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/udcdeUXw/entity_texture_features_1.21-fabric-7.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.lootrmon:lootrmon:0.0.0.3",
+                    "name": "Lootrmon: Lootr & Cobblemon Gilded Chest Compatibility",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 107470,
+                        "MD5": "fd268da56be73ab93ecf5fa8696890da",
+                        "url": "https://cdn.modrinth.com/data/ywwXJDli/versions/nquNxBhW/lootrmon-fabric-1.21.1-0.0.0.3.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.navas-zamega:navas-zamega:1.7.3",
+                    "name": "Navas ZA Megas",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2387420,
+                        "MD5": "42019a1020a2c9ffccf529a42c968a16",
+                        "url": "https://cdn.modrinth.com/data/2V1Y86sc/versions/x5u68zHH/zamega-fabric-1.7.3.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.owo-lib:owo-lib:0.12.15.4+1.21",
+                    "name": "oωo (owo-lib)",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1183559,
+                        "MD5": "3627aee17111e12a8c66928f5d7a3fba",
+                        "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/Fresh Icons.zip",
+                    "name": "Icon Fresh",
+                    "type": "File",
+                    "artifact": {
+                        "size": 852471,
+                        "MD5": "8ecfd25956194f46194c2129f45dbcb2",
+                        "url": "https://cdn.modrinth.com/data/u4iPx1Dr/versions/dVHdQVak/Icon%20Fresh%200.4.zip",
+                        "path": "resourcepacks/Fresh Icons.zip"
+                    }
+                },
+                {
+                    "id": "resourcepacks/Original Pokemon Battle Music.zip",
+                    "name": "Original Pokemon Battle Music",
+                    "type": "File",
+                    "artifact": {
+                        "size": 93138424,
+                        "MD5": "747c67222ce497f8672e77ffaeda783b",
+                        "url": "https://cdn.modrinth.com/data/60QZU8Md/versions/dLmsslxS/%5BV1.2%5D%20Original%20Pokemon%20Battle%20Music.zip",
+                        "path": "resourcepacks/Original Pokemon Battle Music.zip"
                     }
                 },
                 {
@@ -1250,33 +451,215 @@
                     }
                 },
                 {
-                    "id": "com.modrinth.supermartijn642s-core-lib:supermartijn642s-core-lib:1.1.21-fabric-mc1.21",
-                    "name": "SuperMartijn642's Core Lib",
+                    "id": "com.modrinth.better-beds:better-beds:1.4.0-fabric",
+                    "name": "Better Beds",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 616830,
-                        "MD5": "3da1b1056bb9b19eee8957a537e6c5e0",
-                        "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/blDCgrqh/supermartijn642corelib-1.1.21-fabric-mc1.21.jar"
+                        "size": 39918,
+                        "MD5": "cfecd69bea2c2df987327ee0b537486c",
+                        "url": "https://cdn.modrinth.com/data/kKwy3HU9/versions/ZPmX9Uy3/betterbeds-fabric-1.4.0.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.catch-rate-display:catch-rate-display:2.8.22+fabric",
-                    "name": "Cobblemon Catch Rate Display",
+                    "id": "com.modrinth.ping-wheel:ping-wheel:1.12.2",
+                    "name": "Ping Wheel",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 260470,
-                        "MD5": "c179e5ff4c5fa735bbcedd0f4fadf2dd",
-                        "url": "https://cdn.modrinth.com/data/vADO40xp/versions/4MuGKLQg/catchrate-display-fabric-2.8.22.jar"
+                        "size": 152703,
+                        "MD5": "d0da2169a144c577794d38a03927f28e",
+                        "url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/S05ir9dj/Ping-Wheel-1.12.2-fabric-1.21.1.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.vanillabackport:vanillabackport:1.1.7.10",
-                    "name": "Vanilla Backport",
+                    "id": "com.modrinth.cobbleverse-badges:cobbleverse-badges:1.3",
+                    "name": "COBBLEVERSE: Badges & Trophies",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 54994072,
-                        "MD5": "45d17963d8b43aa00251e422861b86e3",
-                        "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/ayvoY8lx/VanillaBackport-fabric-1.21.1-1.1.7.10.jar"
+                        "size": 137015,
+                        "MD5": "079f81e2f318e82c57c5dd87431d283c",
+                        "url": "https://cdn.modrinth.com/data/PHT3Zj0r/versions/3aQ0cMqp/CobbleverseBadges-1.3.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.fabric-language-kotlin:fabric-language-kotlin:1.13.13+kotlin.2.4.10",
+                    "name": "Fabric Language Kotlin",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 8076363,
+                        "MD5": "b70470268be8c74a10e10b24a2bf7df6",
+                        "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.architectury-api:architectury-api:13.0.8+fabric",
+                    "name": "Architectury API",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 600915,
+                        "MD5": "702e92d09a4855c6c8aa9e738a48efa4",
+                        "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Wto0RchG/architectury-13.0.8-fabric.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.lenient-death:lenient-death:1.2.5+1.21.1",
+                    "name": "Lenient Death",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 920915,
+                        "MD5": "3d93c1e47b380a4b7eff0342d56c0258",
+                        "url": "https://cdn.modrinth.com/data/Bfi1KBJV/versions/FUbtsgt9/lenientdeath-1.2.5%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cobblemon-tim-core:cobblemon-tim-core:1.7.3-fabric-1.32.0",
+                    "name": "Cobblemon Tim Core",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 304444,
+                        "MD5": "f206df5480d269c0c0fe27846acb1d89",
+                        "url": "https://cdn.modrinth.com/data/lVP9aUaY/versions/g5MKQfLZ/timcore-fabric-1.7.3-1.32.0.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.lumyrei:lumyrei:1.1.3",
+                    "name": "LumyREI",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 66283,
+                        "MD5": "f35e2c7a5303afc7299e551f4b7aeb2d",
+                        "url": "https://cdn.modrinth.com/data/FVADf9wU/versions/PnYguaC2/LumyREI-1.1.3.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.rechiseled:rechiseled:1.2.4-fabric-mc1.21",
+                    "name": "Rechiseled",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 11913849,
+                        "MD5": "ed15b2605a5e08998aad62a371b64a2a",
+                        "url": "https://cdn.modrinth.com/data/B0g2vT6l/versions/Whwd5n82/rechiseled-1.2.4-fabric-mc1.21.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.no-chat-restrictions:no-chat-restrictions:Fabric-MC1.21.11-v1.0.0",
+                    "name": "No Chat Restrictions",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 9907,
+                        "MD5": "e00f093d0e9e903b3ed0d1784315d88d",
+                        "url": "https://cdn.modrinth.com/data/z440MEwJ/versions/2fnDwqeV/NoChatRestrictions-Fabric-MC1.21.11-v1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.stackdeobf:stackdeobf:1.4.3",
+                    "name": "StackDeobfuscator",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 321213,
+                        "MD5": "8dbb0c4c8c1c9f00faeb68fa74ee6d27",
+                        "url": "https://cdn.modrinth.com/data/NusMqsjF/versions/pyiVLk9R/StackDeobfuscatorFabric-1.4.3%2B08e71cc.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.biome-replacer:biome-replacer:2.1-hippo-fabric",
+                    "name": "Biome Replacer",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 138694,
+                        "MD5": "d31a5b16f5ef5354b5b28dc736c6979d",
+                        "url": "https://cdn.modrinth.com/data/DAXbR0Wj/versions/IeQCQzcl/biomereplacer-2.1-hippo-fabric.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.default-options:default-options:21.1.7+fabric-1.21.1",
+                    "name": "Default Options",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 105044,
+                        "MD5": "e9741ff659f52cc54ab46468b8a73aea",
+                        "url": "https://cdn.modrinth.com/data/WEg59z5b/versions/xaqHFEAN/defaultoptions-fabric-1.21.1-21.1.7.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.resource-pack-overrides:resource-pack-overrides:v21.1.0-1.21.1-Fabric",
+                    "name": "Resource Pack Overrides",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 80827,
+                        "MD5": "a4a05891e061eba03472755073777d8c",
+                        "url": "https://cdn.modrinth.com/data/YsFycamt/versions/MIxxajqC/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.euphoria-patches:euphoria-patches:1.9.3-r5.8.1-fabric",
+                    "name": "Euphoria Patches",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 4296552,
+                        "MD5": "bd6182ebf047a29ebff32ce185c9bb18",
+                        "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/7GNWrkGL/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.villagerconfig:villagerconfig:fabric-4.5.4+1.21.1",
+                    "name": "VillagerConfig",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 355303,
+                        "MD5": "8e0bad0a69dbdd8abb8755c7bfc0e989",
+                        "url": "https://cdn.modrinth.com/data/OClpEDe3/versions/sb4XIWwK/villagerconfig-fabric-4.5.4%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/z DO NOT ENABLE z [GlitchDex - Credits Only].zip",
+                    "name": "GlitchDex - Cobblemon",
+                    "type": "File",
+                    "artifact": {
+                        "size": 322813,
+                        "MD5": "a59db47acf7a9c2354b96c205309b0fc",
+                        "url": "https://cdn.modrinth.com/data/Gdq5F7ud/versions/eHQG8T0Y/GlitchDex-1.1.zip",
+                        "path": "resourcepacks/z DO NOT ENABLE z [GlitchDex - Credits Only].zip"
+                    }
+                },
+                {
+                    "id": "com.modrinth.repurposed-structures-fabric:repurposed-structures-fabric:7.5.21+1.21.1-fabric",
+                    "name": "Repurposed Structures - Fabric",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 8202318,
+                        "MD5": "deb4b37a167bf3eedd2345573c832936",
+                        "url": "https://cdn.modrinth.com/data/muf0XoRe/versions/4uDzF4B9/repurposed_structures-7.5.21%2B1.21.1-fabric.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/JigglyRadio.zip",
+                    "name": "Puff Radio",
+                    "type": "File",
+                    "artifact": {
+                        "size": 124240613,
+                        "MD5": "72c28a2cf909554ba74ddd3ff8240afd",
+                        "url": "https://cdn.modrinth.com/data/YLcccJCk/versions/tcx4Tjc6/JigglyRadio1.4.zip",
+                        "path": "resourcepacks/JigglyRadio.zip"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cobblemon-pasture-loot:cobblemon-pasture-loot:1.0.5+1.21.1",
+                    "name": "Cobblemon Pasture Loot",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 45871,
+                        "MD5": "ef3ebf8d082e4af1fb6f54524e8c1f70",
+                        "url": "https://cdn.modrinth.com/data/XP2jcAo0/versions/MYJtblOM/pastureLoot-1.0.5%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.zoomify:zoomify:2.15.2+1.21.1",
+                    "name": "Zoomify (Zoom)",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 872937,
+                        "MD5": "e3beea86fba08bffe61ccad28df6c676",
+                        "url": "https://cdn.modrinth.com/data/w7ThoJFB/versions/6jrMC48Z/zoomify-2.15.2%2B1.21.1.jar"
                     }
                 },
                 {
@@ -1291,83 +674,25 @@
                     }
                 },
                 {
-                    "id": "com.modrinth.accessories-compat-layer:accessories-compat-layer:0.1.12",
-                    "name": "Accessories Compatibility Layer",
-                    "type": "FabricMod",
+                    "id": "resourcepacks/z DO NOT ENABLE z [MundialMons - Credits Only].zip",
+                    "name": "MundialMons ReaniPack [CobbleMon]",
+                    "type": "File",
                     "artifact": {
-                        "size": 398321,
-                        "MD5": "a256ab28e228cee098a516eef191c886",
-                        "url": "https://cdn.modrinth.com/data/ySnjMzLg/versions/pWxabbaf/accessories_compat_layer-fabric-0.1.12%2B1.21.1.jar"
+                        "size": 1535880,
+                        "MD5": "b54e45f181af4ccc4c38ac9a8ec9524f",
+                        "url": "https://cdn.modrinth.com/data/ubCG349l/versions/ObF5y08k/MundialMons.1.3.2V.%5BBUGS%20AND%20FIX%5D.zip",
+                        "path": "resourcepacks/z DO NOT ENABLE z [MundialMons - Credits Only].zip"
                     }
                 },
                 {
-                    "id": "com.modrinth.casino-rocket:casino-rocket:1.0.0",
-                    "name": "Casino Rocket",
-                    "type": "FabricMod",
+                    "id": "resourcepacks/z DO NOT ENABLE z [MysticMons - Credits Only].zip",
+                    "name": "MysticMons",
+                    "type": "File",
                     "artifact": {
-                        "size": 6878039,
-                        "MD5": "f9464176b63ddd5f58e3200d358223e3",
-                        "url": "https://cdn.modrinth.com/data/Lk3EWIOE/versions/cNABNHK1/casinorocket-1.0.0.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.platform:platform:1.3.3",
-                    "name": "Platform",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 735744,
-                        "MD5": "c5023c794d97255c94493ad53780dcdb",
-                        "url": "https://cdn.modrinth.com/data/i6fiqm5y/versions/BbIdNbF1/Platform-fabric-1.21.1-1.3.3.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.not-enough-animations:not-enough-animations:1.12.4",
-                    "name": "Not Enough Animations",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1948132,
-                        "MD5": "6afb17a78bec2140a3904dcd6d1a3d92",
-                        "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/HyecdWuC/notenoughanimations-fabric-1.12.4-mc1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.mouse-tweaks:mouse-tweaks:1.21-2.26-fabric",
-                    "name": "Mouse Tweaks",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 75984,
-                        "MD5": "1d39ead1641ef522bc7ae92383f21da8",
-                        "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.fusion-connected-textures:fusion-connected-textures:1.2.12-fabric-mc1.21",
-                    "name": "Fusion (Connected Textures)",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 515411,
-                        "MD5": "2220961413c51080d4ce12c0fb5f958d",
-                        "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/6fQXv7Yl/fusion-1.2.12-fabric-mc1.21.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.forge-config-api-port:forge-config-api-port:v21.1.6-1.21.1-Fabric",
-                    "name": "Forge Config API Port",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 633065,
-                        "MD5": "eba1a7f9d9976e983a2b9eb5e915e087",
-                        "url": "https://cdn.modrinth.com/data/ohNO6lps/versions/N5qzq0XV/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cobblemon:cobblemon:1.7.3",
-                    "name": "Cobblemon",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 135801550,
-                        "MD5": "1de64f280372ec94e4376976fb579d52",
-                        "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/kF7CvxTo/Cobblemon-fabric-1.7.3%2B1.21.1.jar"
+                        "size": 1268389,
+                        "MD5": "931746aa20e8ae1f6a358f27e28a23bf",
+                        "url": "https://cdn.modrinth.com/data/TiFXQSAQ/versions/n1gBFmIp/MysticMons_v3.2.1.zip",
+                        "path": "resourcepacks/z DO NOT ENABLE z [MysticMons - Credits Only].zip"
                     }
                 },
                 {
@@ -1381,53 +706,362 @@
                     }
                 },
                 {
-                    "id": "com.modrinth.waystones:waystones:21.1.37+fabric-1.21.1",
-                    "name": "Waystones",
+                    "id": "com.modrinth.globalpacks:globalpacks:21.0.6",
+                    "name": "Global Packs",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 1226801,
-                        "MD5": "251062ba3e8f093538e396cb2b93d05a",
-                        "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/Ub2AL65v/waystones-fabric-1.21.1-21.1.37.jar"
+                        "size": 394707,
+                        "MD5": "30850a43a7a21b109ed7ab19decf247d",
+                        "url": "https://cdn.modrinth.com/data/NRLPy2mk/versions/ErTctr3A/globalpacks-fabric-1.21.1-21.0.6.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.tooltipfix:tooltipfix:1.1.1-1.20",
-                    "name": "ToolTipFix",
+                    "id": "com.modrinth.immediatelyfast:immediatelyfast:1.6.11+1.21.1-fabric",
+                    "name": "ImmediatelyFast",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 12432,
-                        "MD5": "492430f451d89f7fe2d7b8410c9748ac",
-                        "url": "https://cdn.modrinth.com/data/2RKFTmiB/versions/B2L4LeMV/tooltipfix-1.1.1-1.20.jar"
+                        "size": 336763,
+                        "MD5": "ff2f33b4f400d9ccf3bc6e160246b101",
+                        "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/ATB4eNEP/ImmediatelyFast-Fabric-1.6.11%2B1.21.1.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.pokeblocks:pokeblocks:1.4.0-1.21.1",
-                    "name": "Pokeblocks",
+                    "id": "com.modrinth.particle-rain:particle-rain:v4-beta.10+1.21.1-fabric",
+                    "name": "Particle Rain",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 1606467,
-                        "MD5": "a576344a9af471b67b47437adcdd2a63",
-                        "url": "https://cdn.modrinth.com/data/hnOfcjSq/versions/AMYJbQsk/pokeblocks-1.4.0-1.21.1.jar"
+                        "size": 608651,
+                        "MD5": "d756346fdf583d11436a40aad0993d68",
+                        "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/ddaOLHgq/particlerain-4.0.0-beta.10%2B1.21.1-fabric.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.euphoria-patches:euphoria-patches:1.9.3-r5.8.1-fabric",
-                    "name": "Euphoria Patches",
+                    "id": "com.modrinth.betterf3:betterf3:11.0.3",
+                    "name": "BetterF3",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 4296552,
-                        "MD5": "bd6182ebf047a29ebff32ce185c9bb18",
-                        "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/7GNWrkGL/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar"
+                        "size": 1810710,
+                        "MD5": "4f3a811be18c5c1cb64f39f3de6fb0bd",
+                        "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/phATjGhF/BetterF3-11.0.3-Fabric-1.21.1.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.sodium:sodium:mc1.21.1-0.8.12-fabric",
-                    "name": "Sodium",
+                    "id": "com.modrinth.xaeros-minimap:xaeros-minimap:fabric-1.21.1-26.4.2",
+                    "name": "Xaero's Minimap",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 1573180,
-                        "MD5": "4ee4e9d6d047e0bbefaf45deca603fa6",
-                        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/KIRFiWG4/sodium-fabric-0.8.12%2Bmc1.21.1.jar"
+                        "size": 2233608,
+                        "MD5": "c5dc72b99f6bca09e42e5786da1c9b97",
+                        "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/Tx54V6kI/xaerominimap-fabric-1.21.1-26.4.2.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/z DO NOT ENABLE z [Hydro Reanimodel - Credits Only].zip",
+                    "name": "Hydro Reanimodel Pack [Cobblemon]",
+                    "type": "File",
+                    "artifact": {
+                        "size": 2759214,
+                        "MD5": "826380595a13178bc498e5782eab8608",
+                        "url": "https://cdn.modrinth.com/data/lYp6oiT3/versions/W0Y4cvXy/Hydro%20Reanimodel%20Pack%200.1.8a.zip",
+                        "path": "resourcepacks/z DO NOT ENABLE z [Hydro Reanimodel - Credits Only].zip"
+                    }
+                },
+                {
+                    "id": "com.modrinth.comforts:comforts:9.0.5+1.21.1",
+                    "name": "Comforts",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 914494,
+                        "MD5": "609e01638d5b6f2d864ee299e524395d",
+                        "url": "https://cdn.modrinth.com/data/SaCpeal4/versions/LUPOTXbk/comforts-fabric-9.0.5%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cobblecuisine:cobblecuisine:2.0.1-1.7-rc1",
+                    "name": "CobbleCuisine",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 683115,
+                        "MD5": "3d61b2fab71618ae9dabed911f2e0a63",
+                        "url": "https://cdn.modrinth.com/data/dlx62Wp3/versions/KQwSroDP/cobblecuisine-2.0.1-1.7-rc1.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/FullyHisuianStarters RP.zip",
+                    "name": "Fully Hisuian Starters (Cobblemon)",
+                    "type": "File",
+                    "artifact": {
+                        "size": 202557,
+                        "MD5": "2928dd365959b146c37cdd5948c143d5",
+                        "url": "https://cdn.modrinth.com/data/5vRvzDPO/versions/6RwfalgE/Fully%20Hisuian%20Starters%201.1.1.zip",
+                        "path": "resourcepacks/FullyHisuianStarters RP.zip"
+                    }
+                },
+                {
+                    "id": "com.modrinth.rei:rei:16.0.799+fabric",
+                    "name": "Roughly Enough Items (REI)",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2451799,
+                        "MD5": "8a011fbf376cc4350743274bfd16d3cf",
+                        "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/aWzTESNC/RoughlyEnoughItems-16.0.799-fabric.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/Low Fire.zip",
+                    "name": "Low Fire",
+                    "type": "File",
+                    "artifact": {
+                        "size": 42116,
+                        "MD5": "09262e8a854d065b2bbdf1e942f339d4",
+                        "url": "https://cdn.modrinth.com/data/1jZGHJ05/versions/RP4ozzMC/Low%20Fire.zip",
+                        "path": "resourcepacks/Low Fire.zip"
+                    }
+                },
+                {
+                    "id": "com.modrinth.custom-splash-screen:custom-splash-screen:2.2.0",
+                    "name": "Custom Splash Screen",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 660554,
+                        "MD5": "c05035d6d151259def5174d9713f8b68",
+                        "url": "https://cdn.modrinth.com/data/BwFQLeCh/versions/OIFSv9om/customsplashscreen-2.2.0.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.resourceful-lib:resourceful-lib:3.0.12",
+                    "name": "Resourceful Lib",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 485586,
+                        "MD5": "89dac4248b76747800fbc00fa063825e",
+                        "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/Hf91FuVF/resourcefullib-fabric-1.21-3.0.12.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.reinforced-chests:reinforced-chests:3.1.1+1.21.1",
+                    "name": "Reinforced Chests",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1164847,
+                        "MD5": "79b5fea9540f8c96847a7b2cfea4c8ba",
+                        "url": "https://cdn.modrinth.com/data/FWtAXlpg/versions/AwY9P3qV/reinforced-chests-3.1.1%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/Emissive Cobblemon Ores.zip",
+                    "name": "Cobblemon Emissive Ores",
+                    "type": "File",
+                    "artifact": {
+                        "size": 803304,
+                        "MD5": "ffb21c98329ed18f29d0b37fad4eb538",
+                        "url": "https://cdn.modrinth.com/data/SpgcWKWY/versions/r0ix2gfK/Emissive-Cobblemon-Ores-1.7.zip",
+                        "path": "resourcepacks/Emissive Cobblemon Ores.zip"
+                    }
+                },
+                {
+                    "id": "com.modrinth.balm:balm:21.0.63+fabric-1.21.1",
+                    "name": "Balm",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 809717,
+                        "MD5": "5e38debfa0b29738bcdeef2511dda84d",
+                        "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/R6U3hZRZ/balm-fabric-1.21.1-21.0.63.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.better-furnaces-reforged:better-furnaces-reforged:1.21.1-1.1.2518.1+fabric",
+                    "name": "Better Furnaces Reforged",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 633188,
+                        "MD5": "14df54c6ab031983bccfca94006ceae6",
+                        "url": "https://cdn.modrinth.com/data/ZXOYCX2A/versions/bJ5ueqVe/BetterFurnacesReforged-1.21.1-1.1.2518.1-fabric.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.beautify-refabricated:beautify-refabricated:2.0.0+1.21.1",
+                    "name": "Beautify: Refabricated",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 837607,
+                        "MD5": "eaf50ca33137846e0430aa8afc48a223",
+                        "url": "https://cdn.modrinth.com/data/DhSSvaxs/versions/ZyaUkJxq/beautify-2.0.0%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.accessories:accessories:1.1.0-beta.53+1.21.1",
+                    "name": "Accessories",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1095802,
+                        "MD5": "1f332447eadf66a07b33e641816fcd5e",
+                        "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Xlt4eWBe/accessories-fabric-1.1.0-beta.53%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+                    "name": "Complementary Shaders - Unbound",
+                    "type": "File",
+                    "artifact": {
+                        "size": 546928,
+                        "MD5": "0a3553109dbe689a9f76d1aedc8f50c6",
+                        "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/VMHXIk50/ComplementaryUnbound_r5.8.1.zip",
+                        "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip"
+                    }
+                },
+                {
+                    "id": "resourcepacks/Cobblemon Interface.zip",
+                    "name": "Cobblemon Interface",
+                    "type": "File",
+                    "artifact": {
+                        "size": 14108266,
+                        "MD5": "03cacbf0b647173ae6707cc74c10866c",
+                        "url": "https://cdn.modrinth.com/data/gfiYlQU0/versions/8SjyMuZO/Cobblemon%20Interface%20v1.6.0.zip",
+                        "path": "resourcepacks/Cobblemon Interface.zip"
+                    }
+                },
+                {
+                    "id": "com.modrinth.advancementdisable:advancementdisable:1.0.1+1.21",
+                    "name": "Advancement Disable",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 430411,
+                        "MD5": "71bf410f5743041d2a12b9299eea6c61",
+                        "url": "https://cdn.modrinth.com/data/XIsVTmcm/versions/Txi9EkP3/advancementdisable-fabric-1.0.1%2B1.21.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cobblemon-playerxp:cobblemon-playerxp:1.0.9+1.21.1",
+                    "name": "Cobblemon: PlayerXP",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 10818,
+                        "MD5": "678d412cb49d046d3597ae1c26cb8baa",
+                        "url": "https://cdn.modrinth.com/data/zlrbPCvu/versions/f6114Tas/playerxp-fabric-1.0.9%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.mouse-tweaks:mouse-tweaks:1.21-2.26-fabric",
+                    "name": "Mouse Tweaks",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 75984,
+                        "MD5": "1d39ead1641ef522bc7ae92383f21da8",
+                        "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/ylmBQ38A/MouseTweaks-fabric-mc1.21-2.26.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/PokeDiscs.zip",
+                    "name": "Poké Discs",
+                    "type": "File",
+                    "artifact": {
+                        "size": 24912925,
+                        "MD5": "9f88be6a15a5768797a44580f888eac8",
+                        "url": "https://cdn.modrinth.com/data/xk007MaS/versions/De9pY2p7/Poke%20Discs%201.20.x.zip",
+                        "path": "resourcepacks/PokeDiscs.zip"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cobbledollars:cobbledollars:2.0.0+Beta-5.1",
+                    "name": "CobbleDollars [Cobblemon Addon]",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 369528,
+                        "MD5": "1c38ad40c554bd82109d778daa95ecfe",
+                        "url": "https://cdn.modrinth.com/data/s7N7AsqL/versions/cqsHXSXe/CobbleDollars-fabric-2.0.0%2BBeta-5.1%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/Comforts Modernized.zip",
+                    "name": "Comforts Modernized",
+                    "type": "File",
+                    "artifact": {
+                        "size": 72956,
+                        "MD5": "a47986ab87271f68e7f6e2b57fbb2d77",
+                        "url": "https://cdn.modrinth.com/data/BJoffwm5/versions/uFrHNRj0/Comforts%20Modernized%20-%20V1.1.zip",
+                        "path": "resourcepacks/Comforts Modernized.zip"
+                    }
+                },
+                {
+                    "id": "com.modrinth.lumymon:lumymon:0.6.6",
+                    "name": "LumyMon",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2331858,
+                        "MD5": "a1f52c03995e41f08b9e4db17fedf1e8",
+                        "url": "https://cdn.modrinth.com/data/QAX8WiBc/versions/SSS3twZY/LumyMon-0.6.6.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.fusion-connected-textures:fusion-connected-textures:1.2.12-fabric-mc1.21",
+                    "name": "Fusion (Connected Textures)",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 515411,
+                        "MD5": "2220961413c51080d4ce12c0fb5f958d",
+                        "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/6fQXv7Yl/fusion-1.2.12-fabric-mc1.21.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.neruina:neruina:3.3.3",
+                    "name": "Neruina - Ticking Entity Fixer",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 860092,
+                        "MD5": "db817a6db200bafb884e87899d4dfb74",
+                        "url": "https://cdn.modrinth.com/data/1s5x833P/versions/S3RKG9zF/neruina-3.3.3%2B1.21.1-fabric.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.sophisticated-storage-unofficial-fabric-port:sophisticated-storage-unofficial-fabric-port:1.21.1-1.3.7.9.139",
+                    "name": "Sophisticated Storage (Unofficial Fabric port)",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1670672,
+                        "MD5": "fdbe84367afca32bfcd6e467e275d006",
+                        "url": "https://cdn.modrinth.com/data/iHtpVwJL/versions/kjNlOByJ/sophisticatedstorage-1.21.1-1.3.7.9.139.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.athena-ctm:athena-ctm:4.0.6",
+                    "name": "Athena",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 88425,
+                        "MD5": "a549af3b3a32722ab81ff11d9f44f90b",
+                        "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/JfyYsWKP/athena-fabric-1.21.1-4.0.6.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.iris:iris:1.8.14-beta.1+1.21.1-fabric",
+                    "name": "Iris Shaders",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2791343,
+                        "MD5": "4399f0c3edfe2af7f61db3725fe5c751",
+                        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAo1Qhte/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.respackopts:respackopts:4.14.0+1.21.1.4",
+                    "name": "Respackopts",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 557358,
+                        "MD5": "654feee83627108cee2fa4fbd5bf2cc3",
+                        "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/y5eBSMkZ/respackopts-4.14.0%2B1.21.1.4.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/z DO NOT ENABLE z [E19 Minimap Icons - Credits Only].zip",
+                    "name": "E19 - Cobblemon Minimap Icons",
+                    "type": "File",
+                    "artifact": {
+                        "size": 19398814,
+                        "MD5": "790d4b235650a8c637cd59dea859a273",
+                        "url": "https://cdn.modrinth.com/data/Va3BanZa/versions/YGgixlha/E19%20Cobblemon%20Minimap%20Icons.zip",
+                        "path": "resourcepacks/z DO NOT ENABLE z [E19 Minimap Icons - Credits Only].zip"
                     }
                 },
                 {
@@ -1442,53 +1076,376 @@
                     }
                 },
                 {
-                    "id": "com.modrinth.cobbledollars:cobbledollars:2.0.0+Beta-5.1",
-                    "name": "CobbleDollars [Cobblemon Addon]",
+                    "id": "com.modrinth.easy-npc-core:easy-npc-core:7.17.0",
+                    "name": "Easy NPC: Core",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 369528,
-                        "MD5": "1c38ad40c554bd82109d778daa95ecfe",
-                        "url": "https://cdn.modrinth.com/data/s7N7AsqL/versions/cqsHXSXe/CobbleDollars-fabric-2.0.0%2BBeta-5.1%2B1.21.1.jar"
+                        "size": 3338612,
+                        "MD5": "ede499372c34a8366b9c15481e1a84b1",
+                        "url": "https://cdn.modrinth.com/data/Epm6R3P2/versions/3jKivaCk/easy_npc-fabric-1.21.1-7.17.0.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.betterf3:betterf3:11.0.3",
-                    "name": "BetterF3",
+                    "id": "com.modrinth.entity-model-features:entity-model-features:3.2.4-fabric-1.21",
+                    "name": "[EMF] Entity Model Features",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 1810710,
-                        "MD5": "4f3a811be18c5c1cb64f39f3de6fb0bd",
-                        "url": "https://cdn.modrinth.com/data/8shC1gFX/versions/phATjGhF/BetterF3-11.0.3-Fabric-1.21.1.jar"
+                        "size": 565280,
+                        "MD5": "91f3be98f2f2cd76d3ad68525f76ff79",
+                        "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/NLDNY8vg/entity_model_features-3.2.4-1.21-fabric.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.custom-splash-screen:custom-splash-screen:2.2.0",
-                    "name": "Custom Splash Screen",
+                    "id": "com.modrinth.zfastnoise:zfastnoise:1.0.13+1.21",
+                    "name": "Fast Noise",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 660554,
-                        "MD5": "c05035d6d151259def5174d9713f8b68",
-                        "url": "https://cdn.modrinth.com/data/BwFQLeCh/versions/OIFSv9om/customsplashscreen-2.2.0.jar"
+                        "size": 38857,
+                        "MD5": "cc5d3de4adb10db5af20db16ea9b6fe1",
+                        "url": "https://cdn.modrinth.com/data/OnlVIpq5/versions/tss0FueO/zfastnoise-1.0.13%2B1.21.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.krypton:krypton:0.2.8",
-                    "name": "Krypton",
-                    "type": "FabricMod",
+                    "id": "resourcepacks/Classic Grass.zip",
+                    "name": "Cobblemon Classic Grass Pack",
+                    "type": "File",
                     "artifact": {
-                        "size": 161045,
-                        "MD5": "9ba3d734dac0e59deb4721f2f23c65ad",
-                        "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
+                        "size": 7418,
+                        "MD5": "e30036a0e8d49439568cfea37d9d9521",
+                        "url": "https://cdn.modrinth.com/data/vtFYGarZ/versions/k7BV0a5T/Cobblemon%20Classic%20Grass%20Pack%20v2.1%20MC1.21.1.zip",
+                        "path": "resourcepacks/Classic Grass.zip"
                     }
                 },
                 {
-                    "id": "com.modrinth.resourceful-lib:resourceful-lib:3.0.12",
-                    "name": "Resourceful Lib",
+                    "id": "com.modrinth.catch-indicator:catch-indicator:1.7.0",
+                    "name": "Catch Indicator [Cobblemon Addon]",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 485586,
-                        "MD5": "89dac4248b76747800fbc00fa063825e",
-                        "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/Hf91FuVF/resourcefullib-fabric-1.21-3.0.12.jar"
+                        "size": 318477,
+                        "MD5": "9dca57ba58776552413eb5bd6d3888c3",
+                        "url": "https://cdn.modrinth.com/data/tpTcu2PM/versions/PMZ87iqE/catchindicator-fabric-1.7.0.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.factory-api:factory-api:1.21.1-2.2.9-fabric",
+                    "name": "Factory API",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 585089,
+                        "MD5": "137657c291acebb3299e5a3aee048ed4",
+                        "url": "https://cdn.modrinth.com/data/nkTZHOLD/versions/xzTMasRE/FactoryAPI-1.21.1-2.2.9-fabric.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.sound-physics-remastered:sound-physics-remastered:fabric-1.21.1-1.5.1",
+                    "name": "Sound Physics Remastered",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 205671,
+                        "MD5": "ca55ac70824e229cd1175238b50608a6",
+                        "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/tVu2EZ4u/sound-physics-remastered-fabric-1.21.1-1.5.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.modernfix:modernfix:5.25.1+mc1.21.1",
+                    "name": "ModernFix",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 471258,
+                        "MD5": "17260c894041b7b4a1b1f2fd1a8f1a8b",
+                        "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/NnNX8LBn/modernfix-fabric-5.25.1%2Bmc1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.easy-npc-config-ui:easy-npc-config-ui:7.17.0",
+                    "name": "Easy NPC: Config UI",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1202522,
+                        "MD5": "fd4a71261fe161c33f735cb6f457ddad",
+                        "url": "https://cdn.modrinth.com/data/uTGjf7vA/versions/UcRrdqpt/easy_npc_config_ui-fabric-1.21.1-7.17.0.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.not-enough-animations:not-enough-animations:1.12.4",
+                    "name": "Not Enough Animations",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1948132,
+                        "MD5": "6afb17a78bec2140a3904dcd6d1a3d92",
+                        "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/HyecdWuC/notenoughanimations-fabric-1.12.4-mc1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.sophisticated-core-unofficial-fabric-port:sophisticated-core-unofficial-fabric-port:1.21.1-1.2.9.21.168",
+                    "name": "Sophisticated Core (Unofficial Fabric port)",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2996065,
+                        "MD5": "0fcc53d829b59aea00440c6bed12c11d",
+                        "url": "https://cdn.modrinth.com/data/9jxwkYQL/versions/ZLVrtF0Q/sophisticatedcore-1.21.1-1.2.9.21.168.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.trinkets:trinkets:3.10.0",
+                    "name": "Trinkets",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 272944,
+                        "MD5": "4a42e243d6d5c25dea83be3ddc0b28b1",
+                        "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cobblemonraiddens:cobblemonraiddens:0.11.3+1.21.1",
+                    "name": "Cobblemon Raid Dens",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2690197,
+                        "MD5": "30283db43eee22f57df10d52a39323e6",
+                        "url": "https://cdn.modrinth.com/data/GebWh45l/versions/Lecb595b/cobblemonraiddens-fabric-0.11.3%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.fzzy-config:fzzy-config:0.7.6+1.21",
+                    "name": "Fzzy Config",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2365335,
+                        "MD5": "dcedb9014b228c01941b2ef4f2743f19",
+                        "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/kOmySYD4/fzzy_config-0.7.6%2B1.21.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.advancement-plaques:advancement-plaques:1.6.8",
+                    "name": "Advancement Plaques",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 195505,
+                        "MD5": "99b36bb8a2f7fd84ea83c00b65be9b90",
+                        "url": "https://cdn.modrinth.com/data/9NM0dXub/versions/g0SNjiMq/AdvancementPlaques-1.21.1-fabric-1.6.8.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cobblemon-safepastures:cobblemon-safepastures:1.1.1+1.21.1",
+                    "name": "Cobblemon: SafePastures",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 16518,
+                        "MD5": "af5597adebbfad7f73c01e118d93bf97",
+                        "url": "https://cdn.modrinth.com/data/qpe01spE/versions/ahfbSTCi/SafePastures-1.1.1%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.badoptimizations:badoptimizations:2.4.1",
+                    "name": "BadOptimizations",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 283566,
+                        "MD5": "59ee243a5ccd09fff1dd2879b3cad72a",
+                        "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.brb:brb:1.10.0-rc5+1.21",
+                    "name": "Better Recipe Book",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1213168,
+                        "MD5": "d718eff1a6a0f2f9b863f67082ec092e",
+                        "url": "https://cdn.modrinth.com/data/vWIaVOTE/versions/rj0f0Vtq/brb-1.10.0-rc5%2B1.21.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.c2me-fabric:c2me-fabric:0.4.0-alpha.0.23+1.21.1",
+                    "name": "Concurrent Chunk Management Engine (Fabric)",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 3757044,
+                        "MD5": "99215e0f9ca4d99d4d9eb56b5f33d036",
+                        "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/h8ey5B7D/c2me-fabric-mc1.21.1-0.4.0-alpha.0.23.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.continuity:continuity:3.0.0+1.21",
+                    "name": "Continuity",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1014044,
+                        "MD5": "daee3841730e2576a621943f289deadb",
+                        "url": "https://cdn.modrinth.com/data/1IjD5062/versions/kSPJ4hQv/continuity-3.0.0%2B1.21.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.legendary-monuments:legendary-monuments:LM-Cobbleverse",
+                    "name": "Cobblemon: Legendary Monuments (CB 1.8 Version Out)",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 5736792,
+                        "MD5": "7c9ecce22a99dbaebef513a78384309a",
+                        "url": "https://cdn.modrinth.com/data/m6RyHSbV/versions/RtYJBrxd/LegendaryMonuments-Cobbleverse.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.tooltipfix:tooltipfix:1.1.1-1.20",
+                    "name": "ToolTipFix",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 12432,
+                        "MD5": "492430f451d89f7fe2d7b8410c9748ac",
+                        "url": "https://cdn.modrinth.com/data/2RKFTmiB/versions/B2L4LeMV/tooltipfix-1.1.1-1.20.jar"
+                    }
+                },
+                {
+                    "id": "datapacks/PokeCenterPCs-DP.zip",
+                    "name": "PokéCenter PCs (Cobblemon Addon)",
+                    "type": "File",
+                    "artifact": {
+                        "size": 386543,
+                        "MD5": "17e147a30a1f0cb543f8f496c6e58af8",
+                        "url": "https://cdn.modrinth.com/data/uVBAvWbW/versions/xclC5R0W/PokeCenter_PCs_1.1.zip",
+                        "path": "datapacks/PokeCenterPCs-DP.zip"
+                    }
+                },
+                {
+                    "id": "com.modrinth.infinite-music:infinite-music:0.4.6",
+                    "name": "Music Delay Remover (Infinite Music)",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 45913,
+                        "MD5": "c5e39b215131bf34675e19dfc89daac0",
+                        "url": "https://cdn.modrinth.com/data/OJLdOa8k/versions/cIfcDLaq/infinite-music-0.4.6.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.supermartijn642s-config-lib:supermartijn642s-config-lib:1.1.8-fabric-mc1.21",
+                    "name": "SuperMartijn642's Config Lib",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 206993,
+                        "MD5": "fff83455887d85c6f7ebac7bba24fa8f",
+                        "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/euSlaAtA/supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cobblemon:cobblemon:1.7.3",
+                    "name": "Cobblemon",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 135801550,
+                        "MD5": "1de64f280372ec94e4376976fb579d52",
+                        "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/kF7CvxTo/Cobblemon-fabric-1.7.3%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.only-bottle-caps:only-bottle-caps:1.3.0",
+                    "name": "Only Bottle Caps",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 250451,
+                        "MD5": "2380d10d347cf1c18dfdf9eec429f599",
+                        "url": "https://cdn.modrinth.com/data/tDRRddpZ/versions/9QilYtN2/Only%20Bottle%20Caps-1.3.0.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cozy-home:cozy-home:1.1.20",
+                    "name": "Lucky's Cozy Home: Refurnished",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 3121070,
+                        "MD5": "c432cd0ce7f8dc715acd559d44d524cf",
+                        "url": "https://cdn.modrinth.com/data/TNcLBDkY/versions/jJUWZCaQ/Luckys-Cozyhome-Refurnished-1.1.20.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.melody:melody:1.0.10-1.21-fabric",
+                    "name": "Melody",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 188035,
+                        "MD5": "0f1bfbf2dd4fa047a1616fc448f3b856",
+                        "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/OqxSeb4n/melody_fabric_1.0.10_MC_1.21.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.particular-reforged:particular-reforged:1.5.5",
+                    "name": "Particular ✨ Reforged",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 285813,
+                        "MD5": "d044b84c34a12bb2f7db88c81ee3902a",
+                        "url": "https://cdn.modrinth.com/data/pYFUU6cq/versions/PASRyKTR/particular-1.21.1-Fabric-1.5.5.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.controlling:controlling:19.0.5",
+                    "name": "Controlling",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 83679,
+                        "MD5": "5660c1ed5fee202ca5ca9a617a4202b4",
+                        "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/hGJDoW2W/Controlling-fabric-1.21.1-19.0.5.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.interactic:interactic:0.2.3+1.21",
+                    "name": "Interactic",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 118011,
+                        "MD5": "08efa54362ed6b49f37e4fea9788dd36",
+                        "url": "https://cdn.modrinth.com/data/ErpAAAaf/versions/PGo6qQqQ/interactic-0.2.3%2B1.21.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.xaeros-world-map:xaeros-world-map:fabric-1.21.1-1.44.2",
+                    "name": "Xaero's World Map",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1448218,
+                        "MD5": "779cde2dce63cf90d6b318933c2d1080",
+                        "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/L2nO7ZYD/xaeroworldmap-fabric-1.21.1-1.44.2.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.vanillabackport:vanillabackport:1.1.7.10",
+                    "name": "Vanilla Backport",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 54994072,
+                        "MD5": "45d17963d8b43aa00251e422861b86e3",
+                        "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/ayvoY8lx/VanillaBackport-fabric-1.21.1-1.1.7.10.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.konkrete:konkrete:1.9.9-1.21-fabric",
+                    "name": "Konkrete",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 786695,
+                        "MD5": "287ee9cfc6015f706672fd8c20f5ef9c",
+                        "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/Qvrc7DuG/konkrete_fabric_1.9.9_MC_1.21.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.supermartijn642s-core-lib:supermartijn642s-core-lib:1.1.21-fabric-mc1.21",
+                    "name": "SuperMartijn642's Core Lib",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 616830,
+                        "MD5": "3da1b1056bb9b19eee8957a537e6c5e0",
+                        "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/blDCgrqh/supermartijn642corelib-1.1.21-fabric-mc1.21.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/z DO NOT ENABLE z [TDmon - Credits Only].zip",
+                    "name": "TDmon",
+                    "type": "File",
+                    "artifact": {
+                        "size": 458809,
+                        "MD5": "93c04cb984a23e7d846df3873d4a6407",
+                        "url": "https://cdn.modrinth.com/data/b8PVSzJC/versions/hcVF2EwL/TDmon%5BV1.3.1a-Gastly%20Line%20Ported%5D.zip",
+                        "path": "resourcepacks/z DO NOT ENABLE z [TDmon - Credits Only].zip"
                     }
                 },
                 {
@@ -1503,134 +1460,13 @@
                     }
                 },
                 {
-                    "id": "com.modrinth.trinkets:trinkets:3.10.0",
-                    "name": "Trinkets",
+                    "id": "com.modrinth.platform:platform:1.3.3",
+                    "name": "Platform",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 272944,
-                        "MD5": "4a42e243d6d5c25dea83be3ddc0b28b1",
-                        "url": "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.beautify-refabricated:beautify-refabricated:2.0.0+1.21.1",
-                    "name": "Beautify: Refabricated",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 837607,
-                        "MD5": "eaf50ca33137846e0430aa8afc48a223",
-                        "url": "https://cdn.modrinth.com/data/DhSSvaxs/versions/ZyaUkJxq/beautify-2.0.0%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.reeses-sodium-options:reeses-sodium-options:mc1.21.1-2.2.3+fabric",
-                    "name": "Reese's Sodium Options",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 259211,
-                        "MD5": "bb87d3438852737e636bf6b3f1f027d5",
-                        "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/jDOK2MQs/reeses-sodium-options-fabric-2.2.3%2Bmc1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cozy-home:cozy-home:1.1.20",
-                    "name": "Lucky's Cozy Home: Refurnished",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 3121070,
-                        "MD5": "c432cd0ce7f8dc715acd559d44d524cf",
-                        "url": "https://cdn.modrinth.com/data/TNcLBDkY/versions/jJUWZCaQ/Luckys-Cozyhome-Refurnished-1.1.20.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.packet-fixer:packet-fixer:3.3.1",
-                    "name": "Packet Fixer",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 46623,
-                        "MD5": "8f22fb065079340a72ae5ce0da12efcb",
-                        "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/2C41Q8WX/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.ping-wheel:ping-wheel:1.12.2",
-                    "name": "Ping Wheel",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 152703,
-                        "MD5": "d0da2169a144c577794d38a03927f28e",
-                        "url": "https://cdn.modrinth.com/data/QQXAdCzh/versions/S05ir9dj/Ping-Wheel-1.12.2-fabric-1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/Fresh Moves.zip",
-                    "name": "Fresh Moves",
-                    "type": "File",
-                    "artifact": {
-                        "size": 321871,
-                        "MD5": "9425263fea042911f13a1482f4c3f436",
-                        "url": "https://cdn.modrinth.com/data/slufHzC2/versions/4uyHvhnf/-1.21.2%20Fresh%20Moves%20v3.1%20%28With%20Animated%20Eyes%29.zip",
-                        "path": "resourcepacks/Fresh Moves.zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cobblemon-pasture-loot:cobblemon-pasture-loot:1.0.5+1.21.1",
-                    "name": "Cobblemon Pasture Loot",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 45871,
-                        "MD5": "ef3ebf8d082e4af1fb6f54524e8c1f70",
-                        "url": "https://cdn.modrinth.com/data/XP2jcAo0/versions/MYJtblOM/pastureLoot-1.0.5%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.sophisticated-storage-unofficial-fabric-port:sophisticated-storage-unofficial-fabric-port:1.21.1-1.3.7.9.139",
-                    "name": "Sophisticated Storage (Unofficial Fabric port)",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 1670672,
-                        "MD5": "fdbe84367afca32bfcd6e467e275d006",
-                        "url": "https://cdn.modrinth.com/data/iHtpVwJL/versions/kjNlOByJ/sophisticatedstorage-1.21.1-1.3.7.9.139.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.carved-wood:carved-wood:1.9.7-B-Fabric-1.21.1",
-                    "name": "Carved Wood",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 2891665,
-                        "MD5": "db596ba07c887eea948994cedf2504bd",
-                        "url": "https://cdn.modrinth.com/data/WuwijfrW/versions/h1wI9HyK/Carved%20Wood-fabric-1.21.1-1.9.7-B.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.modmenu:modmenu:11.0.4",
-                    "name": "Mod Menu",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 973059,
-                        "MD5": "b2b9c53a887c100f780708c4f36db6c4",
-                        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.respackopts:respackopts:4.14.0+1.21.1.4",
-                    "name": "Respackopts",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 557358,
-                        "MD5": "654feee83627108cee2fa4fbd5bf2cc3",
-                        "url": "https://cdn.modrinth.com/data/TiF5QWZY/versions/y5eBSMkZ/respackopts-4.14.0%2B1.21.1.4.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cobblecuisine:cobblecuisine:2.0.1-1.7-rc1",
-                    "name": "CobbleCuisine",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 683115,
-                        "MD5": "3d61b2fab71618ae9dabed911f2e0a63",
-                        "url": "https://cdn.modrinth.com/data/dlx62Wp3/versions/KQwSroDP/cobblecuisine-2.0.1-1.7-rc1.jar"
+                        "size": 735744,
+                        "MD5": "c5023c794d97255c94493ad53780dcdb",
+                        "url": "https://cdn.modrinth.com/data/i6fiqm5y/versions/BbIdNbF1/Platform-fabric-1.21.1-1.3.3.jar"
                     }
                 },
                 {
@@ -1645,83 +1481,73 @@
                     }
                 },
                 {
-                    "id": "com.modrinth.mobsbegone:mobsbegone:0.0.7",
-                    "name": "MobsBeGone",
+                    "id": "com.modrinth.rctmod:rctmod:0.18.1-beta",
+                    "name": "Radical Cobblemon Trainers",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 9837,
-                        "MD5": "5995db9172923b0476e76e5f8356e6e1",
-                        "url": "https://cdn.modrinth.com/data/hXvXSxxg/versions/B5tawRRL/MobsBeGone-0.0.7.jar"
+                        "size": 6757956,
+                        "MD5": "25c546e42d63947ac2ecdcd12823cc42",
+                        "url": "https://cdn.modrinth.com/data/lRwTUnD7/versions/gQx1F1dx/rctmod-fabric-1.21.1-0.18.1-beta.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.advancementdisable:advancementdisable:1.0.1+1.21",
-                    "name": "Advancement Disable",
+                    "id": "com.modrinth.cobblemon-capture-xp:cobblemon-capture-xp:1.7.3-fabric-1.3.0",
+                    "name": "Cobblemon Capture XP",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 430411,
-                        "MD5": "71bf410f5743041d2a12b9299eea6c61",
-                        "url": "https://cdn.modrinth.com/data/XIsVTmcm/versions/Txi9EkP3/advancementdisable-fabric-1.0.1%2B1.21.jar"
+                        "size": 22848,
+                        "MD5": "e6fc02948bb7b46b6554bc6df987e6f2",
+                        "url": "https://cdn.modrinth.com/data/LBl4Qguc/versions/hjQp9Aq3/capturexp-fabric-1.7.3-1.3.0.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.infinite-music:infinite-music:0.4.6",
-                    "name": "Music Delay Remover (Infinite Music)",
+                    "id": "com.modrinth.entityculling:entityculling:1.10.5",
+                    "name": "Entity Culling",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 45913,
-                        "MD5": "c5e39b215131bf34675e19dfc89daac0",
-                        "url": "https://cdn.modrinth.com/data/OJLdOa8k/versions/cIfcDLaq/infinite-music-0.4.6.jar"
+                        "size": 1595131,
+                        "MD5": "833cb8fd661a52acf63856d22e45f832",
+                        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/hsWvcyFJ/entityculling-fabric-1.10.5-mc1.21.1.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.catch-indicator:catch-indicator:1.7.0",
-                    "name": "Catch Indicator [Cobblemon Addon]",
+                    "id": "com.modrinth.waystones:waystones:21.1.37+fabric-1.21.1",
+                    "name": "Waystones",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 318477,
-                        "MD5": "9dca57ba58776552413eb5bd6d3888c3",
-                        "url": "https://cdn.modrinth.com/data/tpTcu2PM/versions/PMZ87iqE/catchindicator-fabric-1.7.0.jar"
+                        "size": 1226801,
+                        "MD5": "251062ba3e8f093538e396cb2b93d05a",
+                        "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/Ub2AL65v/waystones-fabric-1.21.1-21.1.37.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.comforts:comforts:9.0.5+1.21.1",
-                    "name": "Comforts",
+                    "id": "com.modrinth.toms-storage:toms-storage:1.21-2.3.0-fabric",
+                    "name": "Tom's Simple Storage Mod",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 914494,
-                        "MD5": "609e01638d5b6f2d864ee299e524395d",
-                        "url": "https://cdn.modrinth.com/data/SaCpeal4/versions/LUPOTXbk/comforts-fabric-9.0.5%2B1.21.1.jar"
+                        "size": 1962781,
+                        "MD5": "46341f7e08a115bcc3b5b114dff671fb",
+                        "url": "https://cdn.modrinth.com/data/XZNI4Cpy/versions/GwLz79tK/toms_storage_fabric-1.21-2.3.0.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.more-cobblemon-tweaks:more-cobblemon-tweaks:1.3.3-fabric",
-                    "name": "MoreCobblemonTweaks",
+                    "id": "com.modrinth.moar-concrete:moar-concrete:1.3.1",
+                    "name": "Moar Concrete",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 137626,
-                        "MD5": "8c9e870b8dc446ffdc98d106f65da075",
-                        "url": "https://cdn.modrinth.com/data/5KWlJ2HC/versions/1KKV0SvS/MoreCobblemonTweaks-fabric-1.3.3.jar"
+                        "size": 777538,
+                        "MD5": "15e0f4f9c262a21499792bbf63601b15",
+                        "url": "https://cdn.modrinth.com/data/lXDzrLAm/versions/hG50ZysI/moar-concrete-1.3.1.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.stackdeobf:stackdeobf:1.4.3",
-                    "name": "StackDeobfuscator",
+                    "id": "com.modrinth.iceberg:iceberg:1.3.2",
+                    "name": "Iceberg",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 321213,
-                        "MD5": "8dbb0c4c8c1c9f00faeb68fa74ee6d27",
-                        "url": "https://cdn.modrinth.com/data/NusMqsjF/versions/pyiVLk9R/StackDeobfuscatorFabric-1.4.3%2B08e71cc.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.sophisticated-core-unofficial-fabric-port:sophisticated-core-unofficial-fabric-port:1.21.1-1.2.9.21.168",
-                    "name": "Sophisticated Core (Unofficial Fabric port)",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 2996065,
-                        "MD5": "0fcc53d829b59aea00440c6bed12c11d",
-                        "url": "https://cdn.modrinth.com/data/9jxwkYQL/versions/ZLVrtF0Q/sophisticatedcore-1.21.1-1.2.9.21.168.jar"
+                        "size": 413302,
+                        "MD5": "fe26852d922aa24dad9c81270a09f929",
+                        "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/7ITFAyW8/Iceberg-1.21.1-fabric-1.3.2.jar"
                     }
                 },
                 {
@@ -1735,33 +1561,73 @@
                     }
                 },
                 {
-                    "id": "com.modrinth.cobblemon-tim-core:cobblemon-tim-core:1.7.3-fabric-1.32.0",
-                    "name": "Cobblemon Tim Core",
+                    "id": "com.modrinth.highlight:highlight:3.0.0",
+                    "name": "Highlight",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 304444,
-                        "MD5": "f206df5480d269c0c0fe27846acb1d89",
-                        "url": "https://cdn.modrinth.com/data/lVP9aUaY/versions/g5MKQfLZ/timcore-fabric-1.7.3-1.32.0.jar"
+                        "size": 457352,
+                        "MD5": "234ee14bc223ae7594b41e16c7357518",
+                        "url": "https://cdn.modrinth.com/data/Vz96hXMh/versions/O0nda3pt/highlight-fabric-1.21-3.0.0.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.only-bottle-caps:only-bottle-caps:1.3.0",
-                    "name": "Only Bottle Caps",
+                    "id": "com.modrinth.krypton:krypton:0.2.8",
+                    "name": "Krypton",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 250451,
-                        "MD5": "2380d10d347cf1c18dfdf9eec429f599",
-                        "url": "https://cdn.modrinth.com/data/tDRRddpZ/versions/9QilYtN2/Only%20Bottle%20Caps-1.3.0.jar"
+                        "size": 161045,
+                        "MD5": "9ba3d734dac0e59deb4721f2f23c65ad",
+                        "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.entityculling:entityculling:1.10.5",
-                    "name": "Entity Culling",
+                    "id": "com.modrinth.catch-rate-display:catch-rate-display:2.8.22+fabric",
+                    "name": "Cobblemon Catch Rate Display",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 1595131,
-                        "MD5": "833cb8fd661a52acf63856d22e45f832",
-                        "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/hsWvcyFJ/entityculling-fabric-1.10.5-mc1.21.1.jar"
+                        "size": 260470,
+                        "MD5": "c179e5ff4c5fa735bbcedd0f4fadf2dd",
+                        "url": "https://cdn.modrinth.com/data/vADO40xp/versions/4MuGKLQg/catchrate-display-fabric-2.8.22.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cobblemon-better-pokedex-scanner:cobblemon-better-pokedex-scanner:1.0.0",
+                    "name": "Cobblemon Better Pokedex Scanner",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 350293,
+                        "MD5": "bb097232f80b5a070dec10e16af7b088",
+                        "url": "https://cdn.modrinth.com/data/lESGhLxI/versions/fvFI487Y/better-pokedex-scanner-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.mobsbegone:mobsbegone:0.0.7",
+                    "name": "MobsBeGone",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 9837,
+                        "MD5": "5995db9172923b0476e76e5f8356e6e1",
+                        "url": "https://cdn.modrinth.com/data/hXvXSxxg/versions/B5tawRRL/MobsBeGone-0.0.7.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.bloos-gacha-machine:bloos-gacha-machine:2.0.2",
+                    "name": "Bloo's Gacha Machine v.2",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 356291,
+                        "MD5": "f70fd46c4bb4ab91ae5382688e3ed5c5",
+                        "url": "https://cdn.modrinth.com/data/67dS28p4/versions/zJyIPRC7/gachamachine-fabric-1.21.1-2.0.2.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.netherportalfix:netherportalfix:21.1.3+fabric-1.21.1",
+                    "name": "NetherPortalFix",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 213294,
+                        "MD5": "b9a0a822741aafe118ce9f883f8e86c4",
+                        "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/9KrnphgC/netherportalfix-fabric-1.21.1-21.1.3.jar"
                     }
                 },
                 {
@@ -1779,23 +1645,34 @@
                     }
                 },
                 {
-                    "id": "com.modrinth.particle-core:particle-core:0.3.3+1.21",
-                    "name": "Particle Core",
-                    "type": "FabricMod",
+                    "id": "resourcepacks/z DO NOT ENABLE z [Pokemans - Credits Only].zip",
+                    "name": "Pokemans Pack [Cobblemon]",
+                    "type": "File",
                     "artifact": {
-                        "size": 147812,
-                        "MD5": "0900279584f271fc4647e575883850ae",
-                        "url": "https://cdn.modrinth.com/data/RSeLon5O/versions/mau4pnKr/particle_core-0.3.3%2B1.21.jar"
+                        "size": 3826705,
+                        "MD5": "89f13f9a3eac0e82776784e8d11c22bd",
+                        "url": "https://cdn.modrinth.com/data/GFYCh249/versions/YRMjzyUR/pokemans_v15_toxicCloud.zip",
+                        "path": "resourcepacks/z DO NOT ENABLE z [Pokemans - Credits Only].zip"
                     }
                 },
                 {
-                    "id": "com.modrinth.resource-pack-overrides:resource-pack-overrides:v21.1.0-1.21.1-Fabric",
-                    "name": "Resource Pack Overrides",
+                    "id": "com.modrinth.modmenu:modmenu:11.0.4",
+                    "name": "Mod Menu",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 80827,
-                        "MD5": "a4a05891e061eba03472755073777d8c",
-                        "url": "https://cdn.modrinth.com/data/YsFycamt/versions/MIxxajqC/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar"
+                        "size": 973059,
+                        "MD5": "b2b9c53a887c100f780708c4f36db6c4",
+                        "url": "https://cdn.modrinth.com/data/mOgUt4GM/versions/v6Xx3fbU/modmenu-11.0.4.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.accessories-compat-layer:accessories-compat-layer:0.1.12",
+                    "name": "Accessories Compatibility Layer",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 398321,
+                        "MD5": "a256ab28e228cee098a516eef191c886",
+                        "url": "https://cdn.modrinth.com/data/ySnjMzLg/versions/pWxabbaf/accessories_compat_layer-fabric-0.1.12%2B1.21.1.jar"
                     }
                 },
                 {
@@ -1809,44 +1686,259 @@
                     }
                 },
                 {
-                    "id": "com.modrinth.iris:iris:1.8.14-beta.1+1.21.1-fabric",
-                    "name": "Iris Shaders",
+                    "id": "com.modrinth.particle-core:particle-core:0.3.3+1.21",
+                    "name": "Particle Core",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 2791343,
-                        "MD5": "4399f0c3edfe2af7f61db3725fe5c751",
-                        "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/bAo1Qhte/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar"
+                        "size": 147812,
+                        "MD5": "0900279584f271fc4647e575883850ae",
+                        "url": "https://cdn.modrinth.com/data/RSeLon5O/versions/mau4pnKr/particle_core-0.3.3%2B1.21.jar"
                     }
                 },
                 {
-                    "id": "datapacks/PokeCenterPCs-DP.zip",
-                    "name": "PokéCenter PCs (Cobblemon Addon)",
+                    "id": "com.modrinth.soundsbegone:soundsbegone:1.5.2+fabric-1.21",
+                    "name": "Sounds Be Gone!",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 6151935,
+                        "MD5": "393098afb33296c2d9f2f56e53c9c4ec",
+                        "url": "https://cdn.modrinth.com/data/FOIvwGKz/versions/N0GVB9DV/soundsbegone-fabric-1.5.2%2Bmc1.21.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/z DO NOT ENABLE z [LackingMons - Credits Only].zip",
+                    "name": "LackingMons (Discountiniued)",
                     "type": "File",
                     "artifact": {
-                        "size": 386543,
-                        "MD5": "17e147a30a1f0cb543f8f496c6e58af8",
-                        "url": "https://cdn.modrinth.com/data/uVBAvWbW/versions/xclC5R0W/PokeCenter_PCs_1.1.zip",
-                        "path": "datapacks/PokeCenterPCs-DP.zip"
+                        "size": 5998516,
+                        "MD5": "caffceb86fe6c03796484c6a9161427b",
+                        "url": "https://cdn.modrinth.com/data/ouf6KDf2/versions/pLXYHK8J/LackingMons-ReleaseCanditate-1.zip",
+                        "path": "resourcepacks/z DO NOT ENABLE z [LackingMons - Credits Only].zip"
                     }
                 },
                 {
-                    "id": "com.modrinth.rei:rei:16.0.799+fabric",
-                    "name": "Roughly Enough Items (REI)",
+                    "id": "com.modrinth.cobbreeding:cobbreeding:2.2.2",
+                    "name": "Cobbreeding",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 2451799,
-                        "MD5": "8a011fbf376cc4350743274bfd16d3cf",
-                        "url": "https://cdn.modrinth.com/data/nfn13YXA/versions/aWzTESNC/RoughlyEnoughItems-16.0.799-fabric.jar"
+                        "size": 475560,
+                        "MD5": "c8b8d36e66af37edf4711632bb82da36",
+                        "url": "https://cdn.modrinth.com/data/ItmVb4zY/versions/RNbPHodv/Cobbreeding-fabric-2.2.2.jar"
                     }
                 },
                 {
-                    "id": "com.modrinth.architectury-api:architectury-api:13.0.8+fabric",
-                    "name": "Architectury API",
+                    "id": "resourcepacks/z DO NOT ENABLE z [CavsCobbleMons - Credits Only].zip",
+                    "name": "CavsCobbleMons",
+                    "type": "File",
+                    "artifact": {
+                        "size": 427986,
+                        "MD5": "45bad49c9159f920b77ba60e5e6b1777",
+                        "url": "https://cdn.modrinth.com/data/2k9EDPO1/versions/j9azip42/CavsCobblemon1.4.zip",
+                        "path": "resourcepacks/z DO NOT ENABLE z [CavsCobbleMons - Credits Only].zip"
+                    }
+                },
+                {
+                    "id": "resourcepacks/z DO NOT ENABLE z [ATM x MSD - Credits Only].zip",
+                    "name": "AllTheMons x Mega Showdown",
+                    "type": "File",
+                    "artifact": {
+                        "size": 6126613,
+                        "MD5": "2ee8a45a429512d3e4b987af9e45e86b",
+                        "url": "https://cdn.modrinth.com/data/odZZdRCE/versions/VhwUZj8K/ATM%20x%20MSD%20%5Bv3.6.1%5D.zip",
+                        "path": "resourcepacks/z DO NOT ENABLE z [ATM x MSD - Credits Only].zip"
+                    }
+                },
+                {
+                    "id": "resourcepacks/z DO NOT ENABLE z [CobbleMotion - Credits Only].zip",
+                    "name": "CobbleMotion v1.5.1",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3148542,
+                        "MD5": "07ce9e8ea7eea6285ab0d7a939462cdf",
+                        "url": "https://cdn.modrinth.com/data/lIDAJAby/versions/sPztKDIi/Cobblemotion_v1.5.1.zip",
+                        "path": "resourcepacks/z DO NOT ENABLE z [CobbleMotion - Credits Only].zip"
+                    }
+                },
+                {
+                    "id": "resourcepacks/z DO NOT ENABLE z [MissingMons - Credits Only].zip",
+                    "name": "MissingMons [cobblemon]",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1271067,
+                        "MD5": "243289039b74db3e9ccecd3a1c5a9e61",
+                        "url": "https://cdn.modrinth.com/data/jbbBrQVa/versions/m53LoEZd/MissingMon_v3.6.1%20%5BFloral%20Awakening%20%5D.zip",
+                        "path": "resourcepacks/z DO NOT ENABLE z [MissingMons - Credits Only].zip"
+                    }
+                },
+                {
+                    "id": "com.modrinth.sodium:sodium:mc1.21.1-0.8.12-fabric",
+                    "name": "Sodium",
                     "type": "FabricMod",
                     "artifact": {
-                        "size": 600915,
-                        "MD5": "702e92d09a4855c6c8aa9e738a48efa4",
-                        "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Wto0RchG/architectury-13.0.8-fabric.jar"
+                        "size": 1573180,
+                        "MD5": "4ee4e9d6d047e0bbefaf45deca603fa6",
+                        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/KIRFiWG4/sodium-fabric-0.8.12%2Bmc1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.configurable:configurable:3.5.2",
+                    "name": "Configurable",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 545247,
+                        "MD5": "c82791281f26785531f82c0913967b58",
+                        "url": "https://cdn.modrinth.com/data/lGffrQ3O/versions/4IO3KqeL/configurable-3.5.2%2B1.21.1-fabric.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.paginatedadvancements:paginatedadvancements:2.5.1",
+                    "name": "Paginated Advancements & Custom Frames",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 71859,
+                        "MD5": "98972ac66573f39aff66cc2a396ef916",
+                        "url": "https://cdn.modrinth.com/data/pJogNFap/versions/fQnpir9a/paginatedadvancements-2.5.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cobblemon-minigames:cobblemon-minigames:4.1.1+cobblemon1.7.3",
+                    "name": "Cobblemon MiniGames",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 7817499,
+                        "MD5": "d30cf49f406f757af9d11885e28b35db",
+                        "url": "https://cdn.modrinth.com/data/KVNtCTpr/versions/iPRoZogo/cobblemonminigames-fabric-4.1.1%2Bcobblemon1.7.3.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.debugify:debugify:1.21.1+1.0",
+                    "name": "Debugify",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 292202,
+                        "MD5": "604cf2f99be0b208a3354783f5b56fa2",
+                        "url": "https://cdn.modrinth.com/data/QwxR6Gcd/versions/dO7QNiof/Debugify-1.21.1%2B1.0.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.huge-structure-blocks:huge-structure-blocks:1.21.1-1.1.6",
+                    "name": "Huge Structure Blocks",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 100230,
+                        "MD5": "3d2c52db7fb380822586b6d42ecde976",
+                        "url": "https://cdn.modrinth.com/data/AMLtKGdJ/versions/jZrAT0D5/huge-structure-blocks-fabric-1.1.6.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.searchables:searchables:1.0.2",
+                    "name": "Searchables",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 79531,
+                        "MD5": "33d8f858261d757ef89144ac13013987",
+                        "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/tRdr8Bg3/Searchables-fabric-1.21.1-1.0.2.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cobblefurnies:cobblefurnies:1.2",
+                    "name": "CobbleFurnies",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 2337235,
+                        "MD5": "a2a86b8aac2ebd5208dc92a561c5e113",
+                        "url": "https://cdn.modrinth.com/data/AXY1OO9m/versions/54k31lEX/CobbleFurnies-fabric-1.2.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.moreculling:moreculling:1.0.8",
+                    "name": "More Culling",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 332100,
+                        "MD5": "6aedbcb1811e58e1b357e9a9d98c1eae",
+                        "url": "https://cdn.modrinth.com/data/51shyZVL/versions/LekDmqLf/moreculling-fabric-1.21.1-1.0.8.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cloth-config:cloth-config:15.0.140+fabric",
+                    "name": "Cloth Config API",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1157166,
+                        "MD5": "a2c091b027ad6ba8e54b07020fd45884",
+                        "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.notenoughcrashes:notenoughcrashes:4.4.9+1.21.1-fabric",
+                    "name": "Not Enough Crashes",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 601087,
+                        "MD5": "635fe76b795c2d91f9a6c4bc436e5266",
+                        "url": "https://cdn.modrinth.com/data/yM94ont6/versions/gR0LY1dB/notenoughcrashes-fabric-4.4.9%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.tmcraft:tmcraft:1.4.18+1.7.3",
+                    "name": "TMCraft",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 3360417,
+                        "MD5": "3bb04243884b305b228de0ed352ae89a",
+                        "url": "https://cdn.modrinth.com/data/HU6mkUZs/versions/RYBI5bnM/tmcraft-1.4.18%2B1.7.3.jar"
+                    }
+                },
+                {
+                    "id": "resourcepacks/Fresh Moves.zip",
+                    "name": "Fresh Moves",
+                    "type": "File",
+                    "artifact": {
+                        "size": 321871,
+                        "MD5": "9425263fea042911f13a1482f4c3f436",
+                        "url": "https://cdn.modrinth.com/data/slufHzC2/versions/4uyHvhnf/-1.21.2%20Fresh%20Moves%20v3.1%20%28With%20Animated%20Eyes%29.zip",
+                        "path": "resourcepacks/Fresh Moves.zip"
+                    }
+                },
+                {
+                    "id": "com.modrinth.yacl:yacl:3.8.2+1.21.1-fabric",
+                    "name": "YetAnotherConfigLib (YACL)",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1131265,
+                        "MD5": "aadf11f5a793296be7c195e1ca388492",
+                        "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/o3cDn8Vp/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.cobblemon-additions:cobblemon-additions:4.1.6",
+                    "name": "Cobblemon additions",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 1961229,
+                        "MD5": "73fd17cc59f38c1e03a1b2a37d7252af",
+                        "url": "https://cdn.modrinth.com/data/W2pr9jyL/versions/degN5DK4/cobblemon-additions-4.1.6.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.casino-rocket:casino-rocket:1.0.0",
+                    "name": "Casino Rocket",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 6878039,
+                        "MD5": "f9464176b63ddd5f58e3200d358223e3",
+                        "url": "https://cdn.modrinth.com/data/Lk3EWIOE/versions/cNABNHK1/casinorocket-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "com.modrinth.more-cobblemon-tweaks:more-cobblemon-tweaks:1.3.3-fabric",
+                    "name": "MoreCobblemonTweaks",
+                    "type": "FabricMod",
+                    "artifact": {
+                        "size": 137626,
+                        "MD5": "8c9e870b8dc446ffdc98d106f65da075",
+                        "url": "https://cdn.modrinth.com/data/5KWlJ2HC/versions/1KKV0SvS/MoreCobblemonTweaks-fabric-1.3.3.jar"
                     }
                 },
                 {
@@ -1857,58 +1949,6 @@
                         "size": 797454,
                         "MD5": "6fd6783640f42130f041b50cca2d3be6",
                         "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/N08Z8wog/lithium-fabric-0.15.4%2Bmc1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.cobblemon-safepastures:cobblemon-safepastures:1.1.1+1.21.1",
-                    "name": "Cobblemon: SafePastures",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 16518,
-                        "MD5": "af5597adebbfad7f73c01e118d93bf97",
-                        "url": "https://cdn.modrinth.com/data/qpe01spE/versions/ahfbSTCi/SafePastures-1.1.1%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "com.modrinth.lenient-death:lenient-death:1.2.5+1.21.1",
-                    "name": "Lenient Death",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 920915,
-                        "MD5": "3d93c1e47b380a4b7eff0342d56c0258",
-                        "url": "https://cdn.modrinth.com/data/Bfi1KBJV/versions/FUbtsgt9/lenientdeath-1.2.5%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "resourcepacks/z DO NOT ENABLE z [E19 Minimap Icons - Credits Only].zip",
-                    "name": "E19 - Cobblemon Minimap Icons",
-                    "type": "File",
-                    "artifact": {
-                        "size": 19398814,
-                        "MD5": "790d4b235650a8c637cd59dea859a273",
-                        "url": "https://cdn.modrinth.com/data/Va3BanZa/versions/YGgixlha/E19%20Cobblemon%20Minimap%20Icons.zip",
-                        "path": "resourcepacks/z DO NOT ENABLE z [E19 Minimap Icons - Credits Only].zip"
-                    }
-                },
-                {
-                    "id": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
-                    "name": "Complementary Shaders - Unbound",
-                    "type": "File",
-                    "artifact": {
-                        "size": 546928,
-                        "MD5": "0a3553109dbe689a9f76d1aedc8f50c6",
-                        "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/VMHXIk50/ComplementaryUnbound_r5.8.1.zip",
-                        "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip"
-                    }
-                },
-                {
-                    "id": "com.modrinth.fabric-language-kotlin:fabric-language-kotlin:1.13.13+kotlin.2.4.10",
-                    "name": "Fabric Language Kotlin",
-                    "type": "FabricMod",
-                    "artifact": {
-                        "size": 8076363,
-                        "MD5": "b70470268be8c74a10e10b24a2bf7df6",
-                        "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar"
                     }
                 },
                 {
@@ -1958,7 +1998,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 1676,
-                        "MD5": "b7d1a7c06c48b9bc208607c477d2fd73",
+                        "MD5": "24d5fd87125efa48f1e7c1ecdb9c2c78",
                         "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/defaults/shaderpacks/COBBLEVERSE - Shaders.txt",
                         "path": ".keee-defaults/shaderpacks/COBBLEVERSE - Shaders.txt"
                     }
@@ -16302,7 +16342,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 302,
-                        "MD5": "d241030083364e525eeaf0d2410109cb",
+                        "MD5": "fe55917e16b7dc9d81d5548f72bb1440",
                         "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/defaults/config/iris.properties",
                         "path": ".keee-defaults/config/iris.properties"
                     }
@@ -16533,7 +16573,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 489,
-                        "MD5": "dce283362a11e5f823d649ccbc29e2b1",
+                        "MD5": "e0813f7a60c54247109a46e8625b20f5",
                         "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/packetfixer.properties",
                         "path": "config/packetfixer.properties"
                     }
@@ -16613,6 +16653,28 @@
                         "MD5": "89d8fdd4c5776a17db98424eebc04503",
                         "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/pingwheel.server.json",
                         "path": "config/pingwheel.server.json"
+                    }
+                },
+                {
+                    "id": "config/pocketmorph-client.json",
+                    "name": "config/pocketmorph-client.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3875,
+                        "MD5": "fb3e14f97c4fb3b1522bbceef953eca3",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/pocketmorph-client.json",
+                        "path": "config/pocketmorph-client.json"
+                    }
+                },
+                {
+                    "id": "config/pocketmorph-server.json",
+                    "name": "config/pocketmorph-server.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 13211,
+                        "MD5": "993c81898611324b71210b2524e4c6d9",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/pocketmorph-server.json",
+                        "path": "config/pocketmorph-server.json"
                     }
                 },
                 {
@@ -16929,7 +16991,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 81,
-                        "MD5": "dafb4a990c8b09d76557107af2231e34",
+                        "MD5": "3eae5c9112e245f0ec623dab358b3972",
                         "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/zfastnoise.mixin.properties",
                         "path": "config/zfastnoise.mixin.properties"
                     }
@@ -17203,8 +17265,8 @@
                     "name": "config/roughlyenoughitems/config.json5",
                     "type": "File",
                     "artifact": {
-                        "size": 58940,
-                        "MD5": "2df6edb287a8cb0da405245ac63a7b70",
+                        "size": 59010,
+                        "MD5": "f49845ee197b1b7a2c2cfa83907a6fb3",
                         "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/roughlyenoughitems/config.json5",
                         "path": "config/roughlyenoughitems/config.json5"
                     }
@@ -17237,7 +17299,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 49,
-                        "MD5": "4127359f7e7601190d94e64d09010fe2",
+                        "MD5": "77f004c332047c61744bedd2785a0eb9",
                         "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/roughlyenoughitems/pinyin.properties",
                         "path": "config/roughlyenoughitems/pinyin.properties"
                     }
@@ -17248,7 +17310,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 74,
-                        "MD5": "63dc76ab126b11f8ce2b992f5af3f923",
+                        "MD5": "34c1d479dad121855d0376017e5fdeef",
                         "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/roughlyenoughitems/pinyin_double.properties",
                         "path": "config/roughlyenoughitems/pinyin_double.properties"
                     }
@@ -17262,6 +17324,17 @@
                         "MD5": "6b4cbe0669d1af8046eed29236b66d4c",
                         "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/respackopts/_respackopts.conf",
                         "path": "config/respackopts/_respackopts.conf"
+                    }
+                },
+                {
+                    "id": "config/pocketmorph-selector-cache/2db3c85cdcf38bb50fc84812.json",
+                    "name": "config/pocketmorph-selector-cache/2db3c85cdcf38bb50fc84812.json",
+                    "type": "File",
+                    "artifact": {
+                        "size": 620582,
+                        "MD5": "786817d0c3f2a0d71c45ac751752b7e0",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/pocketmorph-selector-cache/2db3c85cdcf38bb50fc84812.json",
+                        "path": "config/pocketmorph-selector-cache/2db3c85cdcf38bb50fc84812.json"
                     }
                 },
                 {
@@ -18139,7 +18212,7 @@
                     "type": "File",
                     "artifact": {
                         "size": 291,
-                        "MD5": "f24e60c87bbc567e05703ab7b1f0a728",
+                        "MD5": "0a1c6049cab0d2013bbb12704735220e",
                         "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/fabric/indigo-renderer.properties",
                         "path": "config/fabric/indigo-renderer.properties"
                     }
@@ -18164,6 +18237,402 @@
                         "MD5": "2673b8acaa1d06c834c848a4e10b2ac8",
                         "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/euphoria_patcher/settings.toml",
                         "path": "config/euphoria_patcher/settings.toml"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/dialog_client.cfg",
+                    "name": "config/easy_npc/dialog_client.cfg",
+                    "type": "File",
+                    "artifact": {
+                        "size": 280,
+                        "MD5": "b1b4f04942ac97e2b9ae9efa959e9e0b",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/dialog_client.cfg",
+                        "path": "config/easy_npc/dialog_client.cfg"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/dialog_options.cfg",
+                    "name": "config/easy_npc/dialog_options.cfg",
+                    "type": "File",
+                    "artifact": {
+                        "size": 476,
+                        "MD5": "3049423b312b522ec5c79cbd15888d6d",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/dialog_options.cfg",
+                        "path": "config/easy_npc/dialog_options.cfg"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/highlight_client.cfg",
+                    "name": "config/easy_npc/highlight_client.cfg",
+                    "type": "File",
+                    "artifact": {
+                        "size": 193,
+                        "MD5": "3ba4fb15cda027fa171becc682af0df1",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/highlight_client.cfg",
+                        "path": "config/easy_npc/highlight_client.cfg"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/name_tag_client.cfg",
+                    "name": "config/easy_npc/name_tag_client.cfg",
+                    "type": "File",
+                    "artifact": {
+                        "size": 466,
+                        "MD5": "8a2f51a0f9673cf887c2cd33b1a34123",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/name_tag_client.cfg",
+                        "path": "config/easy_npc/name_tag_client.cfg"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/npc_base.cfg",
+                    "name": "config/easy_npc/npc_base.cfg",
+                    "type": "File",
+                    "artifact": {
+                        "size": 216,
+                        "MD5": "d0de0eea6908fd9bed5f255d8b5993e0",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/npc_base.cfg",
+                        "path": "config/easy_npc/npc_base.cfg"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/remote_texture.cfg",
+                    "name": "config/easy_npc/remote_texture.cfg",
+                    "type": "File",
+                    "artifact": {
+                        "size": 248,
+                        "MD5": "ebdde7887b5210a2988ee43694e5d5dd",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/remote_texture.cfg",
+                        "path": "config/easy_npc/remote_texture.cfg"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/render_entity_type_support.cfg",
+                    "name": "config/easy_npc/render_entity_type_support.cfg",
+                    "type": "File",
+                    "artifact": {
+                        "size": 31657,
+                        "MD5": "db490f672b2fd7a1089e048091357e86",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/render_entity_type_support.cfg",
+                        "path": "config/easy_npc/render_entity_type_support.cfg"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/security.cfg",
+                    "name": "config/easy_npc/security.cfg",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4165,
+                        "MD5": "3fc38d4b789862bec3ae7ee1c885dba4",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/security.cfg",
+                        "path": "config/easy_npc/security.cfg"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/spawner_type.cfg",
+                    "name": "config/easy_npc/spawner_type.cfg",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1187,
+                        "MD5": "2cf423bfdddf8faa0bb4def920ce4f38",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/spawner_type.cfg",
+                        "path": "config/easy_npc/spawner_type.cfg"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/speech_bubble_client.cfg",
+                    "name": "config/easy_npc/speech_bubble_client.cfg",
+                    "type": "File",
+                    "artifact": {
+                        "size": 875,
+                        "MD5": "cdca9247fc7e4398a92fa650438ce400",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/speech_bubble_client.cfg",
+                        "path": "config/easy_npc/speech_bubble_client.cfg"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/storage.cfg",
+                    "name": "config/easy_npc/storage.cfg",
+                    "type": "File",
+                    "artifact": {
+                        "size": 666,
+                        "MD5": "9c50dcf63936ee282df46c35cf9fcf67",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/storage.cfg",
+                        "path": "config/easy_npc/storage.cfg"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/zombie_villager/zombie_villager_template.png",
+                    "name": "config/easy_npc/skin/zombie_villager/zombie_villager_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 356,
+                        "MD5": "b0748467bd2149105ad4d922c7799ed0",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/zombie_villager/zombie_villager_template.png",
+                        "path": "config/easy_npc/skin/zombie_villager/zombie_villager_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/zombie/zombie_template.png",
+                    "name": "config/easy_npc/skin/zombie/zombie_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 292,
+                        "MD5": "a38b0b7043eb7c0e91379628aeed1db2",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/zombie/zombie_template.png",
+                        "path": "config/easy_npc/skin/zombie/zombie_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/wolf/wolf_template.png",
+                    "name": "config/easy_npc/skin/wolf/wolf_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 321,
+                        "MD5": "0adf39c4b15ec11850e85fdfcd8e0a59",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/wolf/wolf_template.png",
+                        "path": "config/easy_npc/skin/wolf/wolf_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/witch/witch_template.png",
+                    "name": "config/easy_npc/skin/witch/witch_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 431,
+                        "MD5": "3f15cb59a845607aca5614bd12e9df62",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/witch/witch_template.png",
+                        "path": "config/easy_npc/skin/witch/witch_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/villager/villager_template.png",
+                    "name": "config/easy_npc/skin/villager/villager_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 357,
+                        "MD5": "30e84778924e6c66aef598b8a3cd728a",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/villager/villager_template.png",
+                        "path": "config/easy_npc/skin/villager/villager_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/villager/villager_without_hat_template.png",
+                    "name": "config/easy_npc/skin/villager/villager_without_hat_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 331,
+                        "MD5": "3d8bca495a0fad6240e900d343c9f1d7",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/villager/villager_without_hat_template.png",
+                        "path": "config/easy_npc/skin/villager/villager_without_hat_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/vex/vex_template.png",
+                    "name": "config/easy_npc/skin/vex/vex_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 247,
+                        "MD5": "37f6d362729979569dd8f1f4e6429f07",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/vex/vex_template.png",
+                        "path": "config/easy_npc/skin/vex/vex_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/stray/stray_template.png",
+                    "name": "config/easy_npc/skin/stray/stray_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 531,
+                        "MD5": "66e672cdead5768165586f4b24c1f61c",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/stray/stray_template.png",
+                        "path": "config/easy_npc/skin/stray/stray_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/spider/spider_template.png",
+                    "name": "config/easy_npc/skin/spider/spider_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 308,
+                        "MD5": "03664e96aea4f091f754f2b853f2b853",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/spider/spider_template.png",
+                        "path": "config/easy_npc/skin/spider/spider_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/skeleton/skeleton_template.png",
+                    "name": "config/easy_npc/skin/skeleton/skeleton_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 259,
+                        "MD5": "b6f689ff48f8cd4b03a51947133a3857",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/skeleton/skeleton_template.png",
+                        "path": "config/easy_npc/skin/skeleton/skeleton_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/piglin/piglin_template.png",
+                    "name": "config/easy_npc/skin/piglin/piglin_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 361,
+                        "MD5": "54ae451400c57b4832f976487e7bf629",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/piglin/piglin_template.png",
+                        "path": "config/easy_npc/skin/piglin/piglin_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/pig/pig_template.png",
+                    "name": "config/easy_npc/skin/pig/pig_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 270,
+                        "MD5": "cfc2538d1df812a5ee4ced14b78f9fd3",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/pig/pig_template.png",
+                        "path": "config/easy_npc/skin/pig/pig_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/orc/orc_template.png",
+                    "name": "config/easy_npc/skin/orc/orc_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 521,
+                        "MD5": "529d5d314ad4dc8f697f7341f35cab74",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/orc/orc_template.png",
+                        "path": "config/easy_npc/skin/orc/orc_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/iron_golem/iron_golem_template.png",
+                    "name": "config/easy_npc/skin/iron_golem/iron_golem_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 451,
+                        "MD5": "041e19a3a9e328e569c1572c60bf7f82",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/iron_golem/iron_golem_template.png",
+                        "path": "config/easy_npc/skin/iron_golem/iron_golem_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/illager/illager_template.png",
+                    "name": "config/easy_npc/skin/illager/illager_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 300,
+                        "MD5": "62e2eafe9879c26a5d39f6eed5a0d4c0",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/illager/illager_template.png",
+                        "path": "config/easy_npc/skin/illager/illager_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/husk/husk_template.png",
+                    "name": "config/easy_npc/skin/husk/husk_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 531,
+                        "MD5": "66e672cdead5768165586f4b24c1f61c",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/husk/husk_template.png",
+                        "path": "config/easy_npc/skin/husk/husk_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png",
+                    "name": "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 384,
+                        "MD5": "41f831333d68c3a4535adbe574f0511c",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png",
+                        "path": "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/humanoid/humanoid_template.png",
+                    "name": "config/easy_npc/skin/humanoid/humanoid_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 360,
+                        "MD5": "a39224182358dcbf6615b9faeb732933",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/humanoid/humanoid_template.png",
+                        "path": "config/easy_npc/skin/humanoid/humanoid_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/fox/fox_template.png",
+                    "name": "config/easy_npc/skin/fox/fox_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 335,
+                        "MD5": "5850512e21b0c58b42207510a63a923d",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/fox/fox_template.png",
+                        "path": "config/easy_npc/skin/fox/fox_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/fairy/fairy_template.png",
+                    "name": "config/easy_npc/skin/fairy/fairy_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 434,
+                        "MD5": "531b238034eb6fdcf494378d6de62d69",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/fairy/fairy_template.png",
+                        "path": "config/easy_npc/skin/fairy/fairy_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/ender_man/ender_man_template.png",
+                    "name": "config/easy_npc/skin/ender_man/ender_man_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 276,
+                        "MD5": "11a98be328121d89396fa59e1aa29df2",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/ender_man/ender_man_template.png",
+                        "path": "config/easy_npc/skin/ender_man/ender_man_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/creeper/creeper_template.png",
+                    "name": "config/easy_npc/skin/creeper/creeper_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 255,
+                        "MD5": "460afd5ae6039e184859666d02797e9d",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/creeper/creeper_template.png",
+                        "path": "config/easy_npc/skin/creeper/creeper_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/chicken/chicken_template.png",
+                    "name": "config/easy_npc/skin/chicken/chicken_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 287,
+                        "MD5": "f06078d2850eb0020f2e86dd93c84a5a",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/chicken/chicken_template.png",
+                        "path": "config/easy_npc/skin/chicken/chicken_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/cat/cat_template.png",
+                    "name": "config/easy_npc/skin/cat/cat_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 283,
+                        "MD5": "ddb9d8f03724aa1fe201fd7fbefb81da",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/cat/cat_template.png",
+                        "path": "config/easy_npc/skin/cat/cat_template.png"
+                    }
+                },
+                {
+                    "id": "config/easy_npc/skin/allay/allay_template.png",
+                    "name": "config/easy_npc/skin/allay/allay_template.png",
+                    "type": "File",
+                    "artifact": {
+                        "size": 246,
+                        "MD5": "dc449d0dd6cb93d91fa6e34ecd44376a",
+                        "url": "https://javikeee.github.io/keee-modpacks/files/cobblemon-hazte-con-todos/overrides/config/easy_npc/skin/allay/allay_template.png",
+                        "path": "config/easy_npc/skin/allay/allay_template.png"
                     }
                 },
                 {
